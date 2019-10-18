@@ -1,0 +1,9 @@
+{
+    "request_id": "10210041888814",
+    "errno": 0,
+    "error": "",
+    "data": {
+        "city_id": 110000,
+        "city_name": "北京"
+    }
+}

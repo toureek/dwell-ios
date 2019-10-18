@@ -1,0 +1,27 @@
+{
+    "request_id": "90a37b1b-c441-4559-b37d-1c89c3b3ded9",
+    "uniqid": "010A1A640F7E7F2FEE6D01EB266E12C8",
+    "errno": 0,
+    "error": "",
+    "data": {
+        "city_id": "610100",
+        "bootpage": [
+            {
+                "id": "f9a6b49661040dc44bc760dfc6d254d4",
+                "unique_id": "f9a6b49661040dc44bc760dfc6d254d4",
+                "title": "安心服务月",
+                "image_url": "http://image1.ljcdn.com/materials/appindexconf/82c24a5cc4304accb42a4f3895d57748.jpg",
+                "iPhone4_url": "http://image1.ljcdn.com/materials/appindexconf/875bb977274dcb39f610cd6c64337d96.jpg",
+                "iPhone5_url": "http://image1.ljcdn.com/materials/appindexconf/18cf2bc4f34ae7ff734fecb94fb75598.jpg",
+                "iPhone6_url": "http://image1.ljcdn.com/materials/appindexconf/bc9003a53a9eb642937f835791fa9cb5.jpg",
+                "iPhone6Plus_url": "http://image1.ljcdn.com/materials/appindexconf/2220b1d21408845ff76db588e8aa971e.jpg",
+                "iPhoneX_url": "http://image1.ljcdn.com/materials/appindexconf/cec2fa0e7a4e6abd7cf78890f6dc4737.jpg",
+                "valid_start": "2019-10-21 00:00:00",
+                "valid_end": "2019-10-23 23:59:59",
+                "show_times": "5",
+                "eleid": "010A1A640F7E7F2FEE6D01EB266E12C8_da21d6f433024095fd028e7c2b6fe780"
+            }
+        ]
+    },
+    "cost": 49
+}
