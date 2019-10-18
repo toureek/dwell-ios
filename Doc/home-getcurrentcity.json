@@ -1,0 +1,11 @@
+https://app.api.ke.com/config/config/getcurrentcity?province_name=&request_ts=1563518735
+
+{
+    "request_id": "7191537650159",
+    "errno": 0,
+    "error": "",
+    "data": {
+        "city_id": 110000,
+        "city_name": "北京"
+    }
+}

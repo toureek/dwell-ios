@@ -1,0 +1,27 @@
+https://app.api.ke.com/config/config/bootpage?city_id=610100&request_ts=1563518734
+
+{
+	"request_id": "010A1A64027593FA086C01A86C46EB6A",
+	"uniqid": "010A1A64027593FA086C01A86C46EB6A",
+	"errno": 0,
+	"error": "",
+	"data": {
+		"city_id": "610100",
+		"bootpage": [{
+			"id": "bb19ff0ddd6d2e1613fd4ddddec84909",
+			"unique_id": "bb19ff0ddd6d2e1613fd4ddddec84909",
+			"title": "“好房帮帮忙”综艺",
+			"image_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/2f82634b0d801dd9b93098be9a5d9de4.jpg",
+			"iPhone4_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/e360a3a5eef45b67b41e887e7933d442.jpg",
+			"iPhone5_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/1bf82207b4c7b26bb12ea155fc758ffd.jpg",
+			"iPhone6_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/26fb3e6b159e3e5866a095921a3bcca4.jpg",
+			"iPhone6Plus_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/4b6a9626d6775f59386825283b44d438.jpg",
+			"iPhoneX_url": "http:\/\/image1.ljcdn.com\/materials\/appindexconf\/fb9532c87e37099ced9ecfe595786615.jpg",
+			"valid_start": "2019-07-12 14:51:28",
+			"valid_end": "2019-07-23 23:59:59",
+			"show_times": "5",
+			"eleid": "010A1A64027593FA086C01A86C46EB6A_99ea83f1e01a758601a57d467373f652"
+		}]
+	},
+	"cost": 15
+}

@@ -1,0 +1,47 @@
+https://app.api.ke.com/decorateplat/index/globalconfig/3x?exhi_source=&request_ts=1563526044
+
+
+
+{
+    "errno": 0,
+    "error": "",
+    "request_id": "010A1A640236206A096C019C6CD01208",
+    "data": {
+        "decorate_ucid_list": [
+            1000000026016504
+        ],
+        "menu": [
+            {
+                "name": "找案例",
+                "key": "inspiration",
+                "schema": "",
+                "type": "native",
+                "icon_up": "https://img.ljcdn.com/home-web-pic/8d420be761b15aa415ccaf366cd145c1!m_fill,w_100,h_100",
+                "icon_down": "https://img.ljcdn.com/home-web-pic/092026aee20743ca689bac092d8c6980!m_fill,w_100,h_100",
+                "eleid": "010A1A640236206A096C019C6CD01208_00aded0513bb8cb96d7c15643331abed"
+            },
+            {
+                "name": "找装修",
+                "key": "findDecoration",
+                "schema": "",
+                "type": "native",
+                "icon_up": "https://img.ljcdn.com/home-web-pic/63d8aa170d6101b42e18bc3483005605!m_fill,w_100,h_100",
+                "icon_down": "https://img.ljcdn.com/home-web-pic/0ea81fe903cb47a0032ebd4165afeb42!m_fill,w_100,h_100",
+                "eleid": "010A1A640236206A096C019C6CD01208_7cae1f7a8087a110656086ba45508eab"
+            },
+            {
+                "name": "我的",
+                "key": "mine",
+                "schema": "https://m.ke.com/home/center?sec_source=personal&sec_name=personal",
+                "type": "webview",
+                "icon_up": "https://img.ljcdn.com/home-web-pic/d588b4c8d2a08ce325ca83b82a6546b8!m_fill,w_100,h_100",
+                "icon_down": "https://img.ljcdn.com/home-web-pic/182279193f635dcaa03fe28561f1da45!m_fill,w_100,h_100",
+                "eleid": "010A1A640236206A096C019C6CD01208_37291b98f65183617ba6f5e872bf33eb"
+            }
+        ],
+        "ad": [],
+        "uniqid": "010A1A640236206A096C019C6CD01208"
+    },
+    "cost": 37,
+    "uniqid": "010A1A640236206A096C019C6CD01208"
+}

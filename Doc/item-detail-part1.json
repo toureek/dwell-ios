@@ -1,0 +1,2158 @@
+https://app.api.ke.com/house/ershoufang/detailpart1v1?cityId=610100&fb_expo_id=r156352094683096890510801316640&houseCode=19061118610100111284&isTop=0&recommendType=0&request_ts=1563521214
+
+
+
+{
+	"request_id": "010A1A640D7B6720096C01D5438BE75E",
+	"uniqid": "010A1A640D7B6720096C01D5438BE75E",
+	"errno": 0,
+	"error": "",
+	"data": {
+		"isCatch": false,
+		"bottom": "贝壳号19061118610100111284",
+		"isVr": true,
+		"isService": true,
+		"isProspect": true,
+		"isWorthyBuy": false,
+		"pictureList": [{
+			"imgUrlList": ["http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-f2b883dd-53cb-4e34-b893-aa8626a6417d.jpg!m_fill,w_1000,h_750,lg_north_west,lx_0,ly_0,l_fbk,f_jpg,ls_50?from=ke.com", "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-e9f8f3e0-0ce2-4112-810d-b8ec2c2257ea.jpg!m_fill,w_1000,h_750,lg_north_west,lx_0,ly_0,l_fbk,f_jpg,ls_50?from=ke.com"],
+			"groupName": "卧室",
+			"groupId": 3,
+			"digKey": "woshi",
+			"agent": {
+				"name": "左婷婷",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/16633459-476b-46e4-b1ab-28d6ad0ec4b6.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000076035%2F",
+				"agentUcid": "1000001000076035",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000001000076035",
+					"phoneChannel": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+					"phoneTime": 1563521214,
+					"phoneSign": "66fabdeec559586541888f10d297a910",
+					"businessDigV": "{\"u\":1000001000076035,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000760353811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "13032955660",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000001000076035",
+					"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei"
+				},
+				"statistics": {
+					"agentUcid": "1000001000076035",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000076035,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000760353811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000076035,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010000760353811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228162920842RPECH3SK.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_d549f7ef0c61886f7a549ae9e41707fd"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c26090443aa03b789b5235fed8d0a90e"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228162920842RPECH3SK.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_4f32a4448a66299279cb302a6e2c8b8e"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_e0935873970412b74c9aafd8b0de121d"
+				}]
+			},
+			"imText": ["多少年产权"],
+			"imConfirmNeeded": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_05bef2eb257f7bad7fc4d961030ffc1d"
+		}, {
+			"imgUrlList": ["http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-061fe840-1bd8-4486-a17f-0f5dcc1369ff.jpg!m_fill,w_1000,h_750,lg_north_west,lx_0,ly_0,l_fbk,f_jpg,ls_50?from=ke.com"],
+			"groupName": "客厅",
+			"groupId": 1,
+			"digKey": "keting",
+			"agent": {
+				"name": "段敏歌",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/301ab717-df4e-427d-baaa-49350988dab5.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000197031%2F",
+				"agentUcid": "1000001000197031",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000001000197031",
+					"phoneChannel": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+					"phoneTime": 1563521214,
+					"phoneSign": "27dd72f8e02701ed90cb55103b238ea5",
+					"businessDigV": "{\"u\":1000001000197031,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010001970313811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "15686222565",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000001000197031",
+					"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei"
+				},
+				"statistics": {
+					"agentUcid": "1000001000197031",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000197031,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010001970313811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000197031,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010001970313811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png",
+					"special": [{
+						"desc": "业务精英前10%",
+						"color": "3072F6",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_18cd32257ec9815b19c5bb34b418022b"
+					}]
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/201906241445080238YGEC4RZ.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_80cb2f159fa17be18ceef9a247bbb0f0"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_29015706d6df79ef99f711af7208e17d"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/201906241445080238YGEC4RZ.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_6fd62a5e3af3ce0e9d2c1174953c3f46"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_70030a4b7755616d870a02a0eac25088"
+				}]
+			},
+			"imText": ["随时可以带看吗"],
+			"imConfirmNeeded": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_342c638e6cd08e60568733758dd78fc4"
+		}, {
+			"imgUrlList": ["http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-f74d7a41-b77b-415b-b4cc-2f3a443cdcca.jpg!m_fill,w_1000,h_750,lg_north_west,lx_0,ly_0,l_fbk,f_jpg,ls_50?from=ke.com"],
+			"groupName": "厨房",
+			"groupId": 4,
+			"digKey": "chufang",
+			"agent": {
+				"name": "张豪情",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/1a63e940-6639-4659-bfa5-0f38f8449be7.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000096953%2F",
+				"agentUcid": "1000001000096953",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000001000096953",
+					"phoneChannel": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+					"phoneTime": 1563521214,
+					"phoneSign": "531865ec6b53a18edf2ad21b3de49496",
+					"businessDigV": "{\"u\":1000001000096953,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000969533811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "18629172127",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000001000096953",
+					"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei"
+				},
+				"statistics": {
+					"agentUcid": "1000001000096953",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000096953,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000969533811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000096953,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010000969533811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181229121249265QLJEUW4Z.jpeg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_a5e4f886d75d9b351ac6b1d4158fe3db"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_63932533275ee6fc39fd3678ebf69076"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181229121249265QLJEUW4Z.jpeg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_82f4218e5e885908bf05f3986fcc8bac"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_b49387c9b5df5b88949e32155eec1aae"
+				}]
+			},
+			"imText": ["有车位吗"],
+			"imConfirmNeeded": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_c9afeda2bd0875b368fe31399977d890"
+		}],
+		"framePic": [{
+			"imgUrlList": ["http:\/\/ke-image.ljcdn.com\/hdic-frame\/prod-dfa96f58-7629-46f0-a39b-c21ca46dff92.png.1440x1080.jpg?from=ke.com"],
+			"groupName": "户型图",
+			"groupId": 2,
+			"digKey": "huxingtu",
+			"buttonText": "查看户型格局介绍",
+			"agent": {
+				"name": "苏金",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/69352dcc-462e-44b3-ab52-015b3ec20a07.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000000026010453%2F",
+				"agentUcid": "1000000026010453",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000000026010453",
+					"phoneChannel": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+					"phoneTime": 1563521214,
+					"phoneSign": "1789088d31db5fbbaec757a92e0be9b5",
+					"businessDigV": "{\"u\":1000000026010453,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000000260104533811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "15229091404",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000000026010453",
+					"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei"
+				},
+				"statistics": {
+					"agentUcid": "1000000026010453",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000000026010453,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000000260104533811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000000026010453,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000000260104533811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228191323276ZCCIL4JT.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_b951c8e67b0b4311d18bc3cb15ef45cb"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_0f5abbd07429aacb1cd53569396f7558"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228191323276ZCCIL4JT.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_10875702540ad010c1ced7728576adc8"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_4d0a04c422f84ad2f820883b67759dd5"
+				}]
+			},
+			"imText": ["这个户型有啥优缺点"],
+			"imConfirmNeeded": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_e9a596f356526ebfd9ba8008b63117fd"
+		}],
+		"toastHeadPic": {
+			"agent": {
+				"name": "丁小芳",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/1761aa34-8303-4e98-b1b2-b1fec26567c5.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000075847%2F",
+				"agentUcid": "1000001000075847",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000001000075847",
+					"phoneChannel": "app_beike_ershou_zaixianxiangqing_imagerdetail_wutu",
+					"phoneTime": 1563521214,
+					"phoneSign": "bfe4a1633fc6abc2d70445388128b1fd",
+					"businessDigV": "{\"u\":1000001000075847,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000758473811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "15309298209",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000001000075847",
+					"imPort": "app_beike_ershou_zaixianxiangqing_imagerdetail_wutu"
+				},
+				"statistics": {
+					"agentUcid": "1000001000075847",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000075847,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000758473811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000075847,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010000758473811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228162920842RPECH3SK.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_2f512ee7df0a227be7dac801d4b5ce1c"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ffb5121f77bb782652d5e03c9747d7e2"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228162920842RPECH3SK.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_3767eb60638a1df416885273f2d20189"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_a0f565da31e9e981c99ad628516db2bc"
+				}]
+			},
+			"groupName": "无图",
+			"groupId": 9,
+			"digKey": "wutu",
+			"imText": ["对这套房感兴趣？"]
+		},
+		"vrInfo": {
+			"url": "lianjiabeike:\/\/common\/startVrWebview?htmlurlstring=https%3A%2F%2Frealsee.com%2Fke%2F415XKMYarXKMR7j8%2FryQkazl8xKdYtecKhVTlKDYt4LX6Rn9K%2F%23lianjia",
+			"coverUrl": "http:\/\/vrlab-image.ljcdn.com\/release\/auto3dhd\/26fe19a4f7afd6d892681fd96e8efc4c\/screenshot\/1560235073_0\/pc0_YoYxPyWOZ.jpg.q_70.jpg",
+			"liveVr": {
+				"url": "https:\/\/lianjia.realsee.com\/realtime\/agent_selector\/415XKMYarXKMR7j8\/ryQkazl8xKdYtecKhVTlKDYt4LX6Rn9K\/",
+				"title": "VR语音带看",
+				"subTitle": "无需奔走，专人答疑",
+				"buttontitle": "立即带看"
+			},
+			"agent": {
+				"name": "李娜",
+				"photoUrl": "https:\/\/img.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/6f9d853e-c844-41ec-ac3e-d579fdf835b3.jpg.480x640.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000075868%2F",
+				"agentUcid": "1000001000075868",
+				"vipLevel": 0,
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": "1000001000075868",
+					"phoneChannel": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+					"phoneTime": 1563521214,
+					"phoneSign": "1abc1204143ed82413779bb72327a63a",
+					"businessDigV": "{\"u\":1000001000075868,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000758683811057377717200002\",\"rid\":\"4608470378401987041\"}"
+				},
+				"mobilePhone": "15332356761",
+				"imInfo": {
+					"hideIm": false,
+					"agentUcid": "1000001000075868",
+					"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei"
+				},
+				"statistics": {
+					"agentUcid": "1000001000075868",
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000075868,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000285,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010000758683811057377717200002\",\"rid\":\"4608470378401987041\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000075868,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000285,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010000758683811057377717200002\\\",\\\"rid\\\":\\\"4608470378401987041\\\"}\"}"
+				},
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/201902201657279648OWXVPDP.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_4e793b520b48e80e8c8604de3d8c80b5"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c034cc0868bbb2f65e865669daa93bfb"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/201902201657279648OWXVPDP.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_9098fc228d735561748a64e53aed8c8b"
+					}, {
+						"type": 32,
+						"title": "经纪备案",
+						"no": "201700736",
+						"img": "http:\/\/ke-image.ljcdn.com\/beike\/arsenal\/1545127819519.png",
+						"desc": "房地产经纪机构及其分支机构到所在直辖市、市、县人民政府建设（房地产）主管部门办理备案手续所取得的相关备案证明。",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_6e0c471703819b7b7efd1bad0c839d99"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c081b5cc11fec6994d66ffb2d9f26b9f"
+				}]
+			},
+			"imText": ["周边配套怎么样"],
+			"imConfirmNeeded": 0
+		},
+		"basicInfo": {
+			"isFocus": false,
+			"isOffSale": false,
+			"title": "北辰大道洋房社区绿地香树花城2室 70+8平 首付三成",
+			"cityId": "610100",
+			"houseCode": "19061118610100111284",
+			"communityId": "3811057377717",
+			"communityName": "绿地香树花城",
+			"price": 890000,
+			"unitPrice": 12714,
+			"floorState": "中楼层\/32层",
+			"blueprintHallNum": 2,
+			"blueprintBedroomNum": 2,
+			"area": 70,
+			"orientation": "西",
+			"mUrl": "https:\/\/m.ke.com\/xa\/ershoufang\/19061118610100111284.html",
+			"hasFramePoints": 0,
+			"houseSource": "30103"
+		},
+		"basicList": [{
+			"name": "售价",
+			"value": "89万",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_50496c0b7b2edafcc90dd7396c4bb2f0"
+		}, {
+			"name": "房型",
+			"value": "2室2厅",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_2d355e1d1cf180db6f6ae30698a3da80"
+		}, {
+			"name": "建筑面积",
+			"value": "70㎡",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_351a8f7e95811ea6e6c27ee14d55b66b"
+		}],
+		"colorTags": [{
+			"desc": "必看好房",
+			"color": "FFFFFF",
+			"bgColor": "3072F6",
+			"boldFont": 1,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_78c5fb3fd8d3e50b806d8b89f284196e"
+		}, {
+			"desc": "VR房源",
+			"color": "849AAE",
+			"boldFont": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_c0f772cd12e3052027743c99d8d235f0"
+		}, {
+			"desc": "有钥匙",
+			"color": "849AAE",
+			"boldFont": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_3638c7fc86bdfc5cc3bfa8b1d4838608"
+		}],
+		"infoList": [{
+			"name": "单价：",
+			"value": "12714.3元\/平",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_cb4bc3fdaf58456278e14fa874cdb11b"
+		}, {
+			"name": "挂牌：",
+			"value": "2019.06.11",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_58023a29a72212b13f41152678df6184"
+		}, {
+			"name": "朝向：",
+			"value": "西",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_e429ee0a31f0640cb0c6e68bec5a90fa"
+		}, {
+			"name": "楼层：",
+			"value": "中楼层(共32层)",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_f624c9ebf7739fe797a89d5b8f1d403d"
+		}, {
+			"name": "楼型：",
+			"value": "塔楼",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_0c0b2e84913b769bd094726819432631"
+		}, {
+			"name": "电梯：",
+			"value": "有",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_ba90ad1a0868cc66d510d165a549866f"
+		}, {
+			"name": "装修：",
+			"value": "毛坯",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_587d0c0358f6ff7d859107829dea53bd"
+		}, {
+			"name": "年代：",
+			"value": "2015年建成",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_a55eedc996a4b2e885feb597a18b30d3"
+		}, {
+			"name": "用途：",
+			"value": "普通住宅",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_f9ab50ecd89b47c5870ff89d81352b7d"
+		}, {
+			"name": "权属：",
+			"value": "商品房",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_4078b9dced6a7963e2752e385899a640"
+		}],
+		"infoJumpList": [{
+			"id": "xiaoqurukou",
+			"name": "小区：",
+			"value": "绿地香树花城 (未央-经开)",
+			"actionUrl": "lianjiabeike:\/\/community\/detailv4?communityid=3811057377717",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_b6f6d20c813bc45e72838e5eac27d644"
+		}, {
+			"id": "gengduofangyuanxinxi",
+			"name": "其他：",
+			"value": "产权年限 梯户比...",
+			"actionUrl": "lianjiabeike:\/\/ershou\/detail\/info?houseCode=19061118610100111284&strategyInfo=",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_a6406122905e4c7bd2773b61b9504e67"
+		}],
+		"downpayment": {
+			"id": "goufangyusuan",
+			"name": "首付预算：",
+			"value": "咨询经纪人首付、税费及贷款",
+			"actionUrl": "lianjiabeike:\/\/jingjiren\/im?digV={\"u\":1000000023030841,\"v\":\"V1\",\"s\":\"PERBID\",\"adId\":100000160,\"flow\":\"commerce\",\"b\":\"HouseCodeCommerceBuilder\",\"p\":null,\"sid\":\"1021138783\",\"rid\":\"4608470376086229184\"}&port=app_beike_jiaoyi_shoufuyusuan_fangyuanxiangqing_shibai&from=secondHandHouseList&agent_id=1000000023030841&agent_name=岳红军&sharedic={\"houseCardStr\":\"19061118610100111284\",\"content\":\"\\u60a8\\u597d\\uff0c\\u8bf7\\u95ee\\u8fd9\\u4e2a\\u623f\\u5b50\\u7684\\u9996\\u4ed8\\u3001\\u7a0e\\u8d39\\u548c\\u8d37\\u6b3e\\u662f\\u600e\\u6837\\u7684\\uff1f\"}&im_confirm_needed=0",
+			"digV": "{\"u\":1000000023030841,\"v\":\"V1\",\"s\":\"PERBID\",\"adId\":100000160,\"flow\":\"commerce\",\"b\":\"HouseCodeCommerceBuilder\",\"p\":null,\"sid\":\"1021138783\",\"rid\":\"4608470376086229184\"}",
+			"color": "3072F6"
+		},
+		"location": {
+			"title": "绿地香树花城",
+			"baiduLo": 109.001743,
+			"baiduLa": 34.330617,
+			"seeAround": ["公交", "地铁", "教育", "医院", "购物", "休闲"]
+		},
+		"frameCell": {
+			"cellInfo": ["客厅：21.6㎡\/西\/普通窗", "卧室A：6.1㎡\/暂无数据\/普通窗", "卧室B：10.1㎡\/西\/落地窗"],
+			"picture": "http:\/\/ke-image.ljcdn.com\/hdic-frame\/prod-dfa96f58-7629-46f0-a39b-c21ca46dff92.png",
+			"name": "户型格局"
+		},
+		"agents": [{
+			"name": "王斌",
+			"agentUcid": 1000001000163586,
+			"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/16b583e1-1214-4caf-9083-38f8c3a5d611.jpg.120x160.png?from=ke.com",
+			"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000163586%2F",
+			"mobilePhone": "13299022672",
+			"phoneInfo": {
+				"cityId": "610100",
+				"agentUcid": 1000001000163586,
+				"phoneChannel": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"phoneCallId": "19061118610100111284",
+				"phoneTime": 1563521214,
+				"hidePhone": false,
+				"businessDigV": "{\"u\":1000001000163586,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000161,\"flow\":\"natural\",\"b\":\"HaofangAgentBuilder\",\"p\":null,\"sid\":\"1000001000163586_3811057377717\",\"rid\":\"4608469080389155232\"}",
+				"phoneSign": "3ab4de880da9def0739fc79e72777dd6"
+			},
+			"imInfo": {
+				"agentUcid": 1000001000163586,
+				"imPort": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"hideIm": false
+			},
+			"brandInfo": {
+				"text": "百年行",
+				"textColor": "9399A5",
+				"bgColor": "EFF0F2"
+			},
+			"titleInfo": {
+				"text": "4.2 | 6人评价",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"descInfo": {
+				"text": "专业挑选好房，用心为您讲解房源亮点",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"statistics": {
+				"agentUcid": 1000001000163586,
+				"cityId": "610100",
+				"strategyInfo": "{\"u\":1000001000163586,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000161,\"flow\":\"natural\",\"b\":\"HaofangAgentBuilder\",\"p\":null,\"sid\":\"1000001000163586_3811057377717\",\"rid\":\"4608469080389155232\"}",
+				"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000163586,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000161,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"HaofangAgentBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000163586_3811057377717\\\",\\\"rid\\\":\\\"4608469080389155232\\\"}\"}"
+			},
+			"phoneStyleType": 1,
+			"vipLevel": 0,
+			"cards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_995c841de740ec4d02081659691b1635"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_3560086df42b0b1e8e807d5ae4340154"
+			}],
+			"orgCards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_14306d58f9b72df42e2c2b0fb662ee70"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_c5fd097b853f7e809d31b119e8c56833"
+			}],
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_2930c2893eac42248aa3cfae8082e790"
+		}, {
+			"name": "李长庚",
+			"agentUcid": 1000001000147769,
+			"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/b620dd7f-9128-4e0c-93c5-27fc020ab737.jpg.120x160.png?from=ke.com",
+			"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000147769%2F",
+			"mobilePhone": "13299177073",
+			"phoneInfo": {
+				"cityId": "610100",
+				"agentUcid": 1000001000147769,
+				"phoneChannel": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"phoneCallId": "19061118610100111284",
+				"phoneTime": 1563521214,
+				"hidePhone": false,
+				"businessDigV": "{\"u\":1000001000147769,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000161,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010001477693811057377717200002\",\"rid\":\"4608469080389155232\"}",
+				"phoneSign": "c80b30d9143b5b9ac0b5ba4eedf2b547"
+			},
+			"imInfo": {
+				"agentUcid": 1000001000147769,
+				"imPort": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"hideIm": false
+			},
+			"brandInfo": {
+				"text": "馨慧",
+				"textColor": "9399A5",
+				"bgColor": "EFF0F2"
+			},
+			"titleInfo": {
+				"text": "5.0 | 4人评价",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"descInfo": {
+				"text": "好评经纪人，熟悉本房特色",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"statistics": {
+				"agentUcid": 1000001000147769,
+				"cityId": "610100",
+				"strategyInfo": "{\"u\":1000001000147769,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000161,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000010001477693811057377717200002\",\"rid\":\"4608469080389155232\"}",
+				"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000147769,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000161,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000010001477693811057377717200002\\\",\\\"rid\\\":\\\"4608469080389155232\\\"}\"}"
+			},
+			"phoneStyleType": 1,
+			"vipLevel": 0,
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_f1710160ee83bd1fdd8856db85e132b4"
+		}, {
+			"name": "王党委",
+			"agentUcid": 1000000023096055,
+			"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/c7a4270a-852e-4001-b6f1-bc484df7071a.jpg.120x160.png?from=ke.com",
+			"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000000023096055%2F",
+			"mobilePhone": "15353725371",
+			"phoneInfo": {
+				"cityId": "610100",
+				"agentUcid": 1000000023096055,
+				"phoneChannel": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"phoneCallId": "19061118610100111284",
+				"phoneTime": 1563521214,
+				"hidePhone": false,
+				"businessDigV": "{\"u\":1000000023096055,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000161,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000000230960553811057377717200002\",\"rid\":\"4608469080389155232\"}",
+				"phoneSign": "6283c4eb4e3225714741da0b81d3f127"
+			},
+			"imInfo": {
+				"agentUcid": 1000000023096055,
+				"imPort": "app_beike_ershou_zaixianxiangqing_tuijian",
+				"hideIm": false
+			},
+			"brandInfo": {
+				"text": "链家",
+				"textColor": "9399A5",
+				"bgColor": "EFF0F2"
+			},
+			"titleInfo": {
+				"text": "5.0 | 22人评价",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"descInfo": {
+				"text": "好评经纪人，熟悉本房特色",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"statistics": {
+				"agentUcid": 1000000023096055,
+				"cityId": "610100",
+				"strategyInfo": "{\"u\":1000000023096055,\"v\":\"V1\",\"s\":\"MEMBER\",\"adId\":100000161,\"flow\":\"commerce\",\"b\":\"VipResblockCommerceBuilderFree\",\"p\":null,\"sid\":\"10000000230960553811057377717200002\",\"rid\":\"4608469080389155232\"}",
+				"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000000023096055,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"MEMBER\\\",\\\"adId\\\":100000161,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"VipResblockCommerceBuilderFree\\\",\\\"p\\\":null,\\\"sid\\\":\\\"10000000230960553811057377717200002\\\",\\\"rid\\\":\\\"4608469080389155232\\\"}\"}"
+			},
+			"phoneStyleType": 1,
+			"vipLevel": 0,
+			"agentTags": {
+				"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png",
+				"special": [{
+					"desc": "客户推荐前10%",
+					"color": "3072F6",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_bac557f5cdd506b47deff6bcb28e3a5c"
+				}]
+			},
+			"cards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226182837354KDDH6PMF.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3519285c9c298bce74332da5c1d54a51"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_525ca7afcf1aaaaadfeeff0afea14236"
+			}],
+			"orgCards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226182837354KDDH6PMF.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_bce9783fc7407e98e98db8a808ca751f"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_45b859566df0b868c5f2d6e0618d4f9f"
+			}],
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_b3c2794791535009a0da487c14e71f9d"
+		}],
+		"tailAgent": {
+			"name": "岳红军",
+			"agentUcid": 1000000023030841,
+			"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/25dc62b3-e2de-4baf-8bf4-2c3b394e6e8a.jpg.120x160.png?from=ke.com",
+			"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000000023030841%2F",
+			"mobilePhone": "15829034258",
+			"phoneInfo": {
+				"cityId": "610100",
+				"agentUcid": 1000000023030841,
+				"phoneChannel": "app_beike_ershou_zaixianxiangqing_dibu",
+				"phoneTime": 1563521214,
+				"hidePhone": false,
+				"businessDigV": "{\"u\":1000000023030841,\"v\":\"V1\",\"s\":\"PERBID\",\"adId\":100000160,\"flow\":\"commerce\",\"b\":\"HouseCodeCommerceBuilder\",\"p\":null,\"sid\":\"1021138783\",\"rid\":\"4608470376086229184\"}",
+				"phoneSign": "f50db94c86eaa4e46d13d1d918c5747a"
+			},
+			"imInfo": {
+				"agentUcid": 1000000023030841,
+				"imPort": "app_beike_ershou_zaixianxiangqing_dibu",
+				"hideIm": false
+			},
+			"brandInfo": {
+				"text": "链家",
+				"textColor": "9399A5",
+				"bgColor": "EFF0F2"
+			},
+			"titleInfo": {
+				"text": "4.8 | 16人评价",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"statistics": {
+				"agentUcid": 1000000023030841,
+				"cityId": "610100",
+				"strategyInfo": "{\"u\":1000000023030841,\"v\":\"V1\",\"s\":\"PERBID\",\"adId\":100000160,\"flow\":\"commerce\",\"b\":\"HouseCodeCommerceBuilder\",\"p\":null,\"sid\":\"1021138783\",\"rid\":\"4608470376086229184\"}",
+				"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000000023030841,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"PERBID\\\",\\\"adId\\\":100000160,\\\"flow\\\":\\\"commerce\\\",\\\"b\\\":\\\"HouseCodeCommerceBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1021138783\\\",\\\"rid\\\":\\\"4608470376086229184\\\"}\"}"
+			},
+			"phoneStyleType": 1,
+			"ext": {
+				"agentTuijian": 1
+			},
+			"vipLevel": 0,
+			"agentTags": {
+				"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png",
+				"special": [{
+					"desc": "客户推荐前10%",
+					"color": "3072F6",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_11c0c98a36fb4c8777a20ee8a8c9ca4b"
+				}]
+			},
+			"cards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226154249827SAKRQ5WR.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ab057a78f487a9d1bad330eb8c2b8688"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_9aac5f81283da98237cb77e48a458a6f"
+			}],
+			"orgCards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226154249827SAKRQ5WR.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_a9ab3815287edc9a0870f7faad19d70c"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_b302f6c4470dc616121a0e640c3414fb"
+			}]
+		},
+		"userRelated": {
+			"isFollowed": 0,
+			"isFollowedPrice": 0,
+			"isAddCart": 0,
+			"isReported": 0,
+			"isOwner": 0
+		},
+		"accuseOptions": [{
+			"text": "未作选择",
+			"id": "0",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_26541818fe331fe9d12905746393d8f8"
+		}, {
+			"text": "房源不存在",
+			"id": "1",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_9ed838ce262b3bbfba745a412c286a9b"
+		}, {
+			"text": "图片与实际不符",
+			"id": "2",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_e4113aa3bb48c5e24857086cbb623ed2"
+		}, {
+			"text": "房源已经出售",
+			"id": "3",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_ee738e90f82cf80192f5c9202f80a392"
+		}, {
+			"text": "价格不真实",
+			"id": "4",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_b932b5736a3ac683d6c2afdeae8d2884"
+		}],
+		"peifu": ["1", "2", "3", "4"],
+		"houseNews": {
+			"name": "房源动态",
+			"list": [{
+				"name": "近7日带看(次)",
+				"value": "14",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_f0fb2b03b6be1912544166592fe78c80"
+			}, {
+				"name": "近30日带看(次)",
+				"value": "32",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_1a145676d5b3b12efc0fc76302097ddb"
+			}, {
+				"name": "关注房源(人)",
+				"value": "80",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_c52ca3648d59f8312f1b1777b46c7d11"
+			}],
+			"allSeeRecord": {
+				"name": "带看记录",
+				"desc": "最近带看 2019.07.19",
+				"actionUrl": "lianjiabeike:\/\/seenRecord\/houseSeenRecordList?houseCode=19061118610100111284&houseType=1"
+			},
+			"timeline": {
+				"name": "房源时间轴",
+				"desc": "挂牌时间 2019.06.11",
+				"list": [{
+					"desc": "拿到钥匙",
+					"time": 1560240372,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3a70bf4770cd1145c8748526e82b4ad9"
+				}, {
+					"desc": "上传照片",
+					"time": 1560239022,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_b740bd1b531a44302e42954ab37193a4"
+				}, {
+					"desc": "房源挂牌",
+					"time": 1560221529,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_0427707c3b9684e707bfed48d7474d83"
+				}]
+			}
+		},
+		"houseIntr": {
+			"name": "房源介绍",
+			"actionUrl": "lianjiabeike:\/\/page\/ershou\/intro_detail?focus=1&house_code=19061118610100111284",
+			"intr": {
+				"content": "绿地香树花城 花园洋房社区 户型方正  带8平米大阳台  整体户型方正，活动区域开阔，明厨明卫，各部分空间均有窗，可保证整体空间采光和通风，居住舒适度高，整个房间空间布局合理，做到了干湿分离，动静分离，方便后期生活，各个功能区的尺寸比例规范，布局合理能很好的满足日常功能需求，整体空间开业主是全款，产证清晰，无抵押，无产 权纠纷，证在手，随时配 合签约交通公交线路有：230路，241路，262路，27路，二环一号线，2号路线，309路，315路，406路，410路，47路，703路，728路，世园5号线，游8等辛家庙站下车。乘坐104路，315路，316路，728路，309路，315区间，165路，248路等泘沱村下车，步行大约100米即可。",
+				"actionUrl": "lianjiabeike:\/\/page\/ershou\/intro_detail?focus=1&house_code=19061118610100111284"
+			},
+			"agentDaikanComment": {
+				"name": "经纪人带看反馈 (23)",
+				"lastSeeDate": "最新带看 2019.07.10",
+				"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/be63843f-0733-4577-b667-8af5111679b9.jpg.120x160.png?from=ke.com",
+				"comment": "房子采光比较好的，在房子就能感觉到太阳的味道的，在房子没有任何遮挡的，所以是买来干什么都是可以的，因为业主现在不住了，腾名额了，所以出售的，房子带50平米的露台。",
+				"actionUrl": "lianjiabeike:\/\/page\/ershou\/intro_detail?focus=3&house_code=19061118610100111284",
+				"total": 23,
+				"agent": {
+					"name": "王华婷",
+					"agentUcid": "1000001000101119",
+					"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/be63843f-0733-4577-b667-8af5111679b9.jpg.120x160.png?from=ke.com",
+					"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000101119%2F",
+					"mobilePhone": "13038581051",
+					"phoneInfo": {
+						"cityId": "610100",
+						"agentUcid": "1000001000101119",
+						"phoneChannel": "app_beike_ershou_zaixianxiangqing_daikanfankui_waibu",
+						"phoneTime": 1563521214,
+						"hidePhone": false,
+						"phoneSign": "baeadfac5d7bc19719edeb23e0896b59"
+					},
+					"imInfo": {
+						"agentUcid": "1000001000101119",
+						"imPort": "app_beike_ershou_zaixianxiangqing_daikanfankui_waibu",
+						"hideIm": false
+					},
+					"brandInfo": {
+						"text": "德佑",
+						"textColor": "9399A5",
+						"bgColor": "EFF0F2"
+					},
+					"titleInfo": {
+						"text": "4.8 | 4人评价",
+						"textColor": "101D37",
+						"bgColor": "FFFFFF"
+					},
+					"descInfo": {
+						"text": "带看本房1次 2019.07.10带看过",
+						"textColor": "9399A5",
+						"bgColor": "FFFFFF"
+					},
+					"statistics": {
+						"agentUcid": "1000001000101119",
+						"cityId": "610100",
+						"strategyInfo": "{\"u\":1000001000101119,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000160,\"flow\":\"natural\",\"b\":null,\"p\":null,\"sid\":\"1000001000101119_101104923565\",\"rid\":\"4608469081345456544\"}",
+						"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000101119,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000160,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":null,\\\"p\\\":null,\\\"sid\\\":\\\"1000001000101119_101104923565\\\",\\\"rid\\\":\\\"4608469081345456544\\\"}\"}"
+					},
+					"phoneStyleType": 1,
+					"ext": {
+						"shopName": "德佑-星冉加盟店-雅荷春天南门店A店",
+						"agentLevel": "店经理",
+						"scoreDesc": "4.8"
+					},
+					"vipLevel": 0,
+					"agentTags": {
+						"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+					},
+					"cards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/2019032617443309722NPQ8NC.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640D7B6720096C01D5438BE75E_3f8953620f8d5b92e37d7f9646f83d1a"
+						}],
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_a6d872dc7da24c0aa93b83bd53e4d417"
+					}],
+					"orgCards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/2019032617443309722NPQ8NC.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640D7B6720096C01D5438BE75E_b0f928a0d2a9f2536d5a1fd846acfb16"
+						}],
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_7618441b0365640a80ffb425f2af7fe8"
+					}]
+				}
+			}
+		},
+		"intrFeature": {
+			"name": "房源介绍",
+			"list": [{
+				"title": "核心卖点",
+				"desc": "绿地香树花城 花园洋房社区 户型方正  带8平米大阳台  ",
+				"sort": 90,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_da48b3ddae52923cd20ca98f1fdef2ab"
+			}, {
+				"title": "户型介绍",
+				"desc": "整体户型方正，活动区域开阔，明厨明卫，各部分空间均有窗，可保证整体空间采光和通风，居住舒适度高，整个房间空间布局合理，做到了干湿分离，动静分离，方便后期生活，各个功能区的尺寸比例规范，布局合理能很好的满足日常功能需求，整体空间开",
+				"sort": 80,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_8f721630ab654249bcf81f9ca2beafef"
+			}, {
+				"title": "权属抵押",
+				"desc": "业主是全款，产证清晰，无抵押，无产 权纠纷，证在手，随时配 合签约",
+				"sort": 50,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_1b1edb815a64638cf6af4d0f1651540c"
+			}, {
+				"title": "交通出行",
+				"desc": "交通公交线路有：230路，241路，262路，27路，二环一号线，2号路线，309路，315路，406路，410路，47路，703路，728路，世园5号线，游8等辛家庙站下车。乘坐104路，315路，316路，728路，309路，315区间，165路，248路等泘沱村下车，步行大约100米即可。",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_37e10feda0c2794d404b7f6cc65cf87e"
+			}]
+		},
+		"agentHolder": {
+			"name": "王斌",
+			"agentUcid": "1000001000163586",
+			"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/16b583e1-1214-4caf-9083-38f8c3a5d611.jpg.120x160.png?from=ke.com",
+			"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000163586%2F",
+			"mobilePhone": "13299022672",
+			"phoneInfo": {
+				"cityId": "610100",
+				"agentUcid": "1000001000163586",
+				"phoneChannel": "beike_app_ershoudetail_datuzhanwei",
+				"phoneTime": 1563521214,
+				"hidePhone": false,
+				"phoneSign": "b2833d9e5382f31456b7524987e3dbbf"
+			},
+			"imInfo": {
+				"agentUcid": "1000001000163586",
+				"imPort": "app_beike_ershouplat_detail_ershoufang_datuzhanwei",
+				"hideIm": false
+			},
+			"brandInfo": {
+				"text": "百年行",
+				"textColor": "9399A5",
+				"bgColor": "EFF0F2"
+			},
+			"titleInfo": {
+				"text": "4.2 | 6人评价",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"descInfo": {
+				"text": "从业多年的经纪人",
+				"textColor": "101D37",
+				"bgColor": "FFFFFF"
+			},
+			"phoneStyleType": 1,
+			"ext": {
+				"shopName": "百年行-谦皓加盟店-绿地香树花城店A店",
+				"agentLevel": "高级经纪人",
+				"scoreDesc": "4.2"
+			},
+			"vipLevel": 0,
+			"cards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_524426279c9cdb9836e8e4333c56f769"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_800e6082f78c88d49a4bda6a95633c4e"
+			}],
+			"orgCards": [{
+				"desc": "房源发布机构",
+				"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+				"class": "company_card_pic",
+				"lists": [{
+					"type": 31,
+					"title": "营业执照",
+					"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+					"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_11b10b7a87ee5534fb461d462d4d43e1"
+				}],
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_e65f587a17e0b40a806ab54e1c1c7fb6"
+			}]
+		},
+		"abTestDiamondAgentGroup": 1,
+		"miniProgram": {
+			"accessKey": "gh_2dbd87cb164c",
+			"path": "subpackages\/ershoufang\/pages\/esfDetail\/esfDetail?share_user_id=2000000075832377&share_device_union_id=098E41E5-5923-42C9-B963-E5BCE84FC173&share_user_type=2&share_time=1563521214942&source=share_beikeapp&from=shell&share=true&cityId=610100&houseCode=19061118610100111284&share_entity_union_id=343d3144d1d647bb65d7fbd1fa839c92"
+		},
+		"positionSurrounding": {
+			"title": "位置及周边配套",
+			"position": {
+				"name": "位置：",
+				"value": "未央经开绿地香树花城"
+			},
+			"school": {
+				"name": "学校信息：",
+				"value": "咨询经纪人中小学情况",
+				"agent": {
+					"name": "梁鹏艳",
+					"agentUcid": 1000001000075817,
+					"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/593bb712-e183-4db7-9392-224cce7769a7.jpg.120x160.png?from=ke.com",
+					"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000075817%2F",
+					"mobilePhone": "18392418273",
+					"phoneInfo": {
+						"cityId": "610100",
+						"agentUcid": 1000001000075817,
+						"phoneChannel": "app_beike_ershou_zaixianxiangqing_xuexiaoxinxi",
+						"phoneCallId": "101104923565",
+						"phoneTime": 1563521214,
+						"hidePhone": false,
+						"businessDigV": "{\"u\":1000001000075817,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000261,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000075817_3811057377717\",\"rid\":\"4608470385623005600\"}",
+						"phoneSign": "3e68e5b94a09fba60e6efaf60a16028a"
+					},
+					"imInfo": {
+						"agentUcid": 1000001000075817,
+						"imPort": "app_beike_ershou_zaixianxiangqing_xuexiaoxinxi",
+						"hideIm": false
+					},
+					"brandInfo": {
+						"text": "馨慧",
+						"textColor": "9399A5",
+						"bgColor": "EFF0F2"
+					},
+					"titleInfo": {
+						"text": "4.3 | 6人评价",
+						"textColor": "101D37",
+						"bgColor": "FFFFFF"
+					},
+					"phoneStyleType": 1,
+					"vipLevel": 0,
+					"agentTags": {
+						"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+					},
+					"cards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228155102772HAIXRS6I.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640D7B6720096C01D5438BE75E_3689d7f1b8b1275505719ce835ae305b"
+						}],
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_dcfa25571dd65d8015df58c6d2b30d3f"
+					}],
+					"orgCards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228155102772HAIXRS6I.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640D7B6720096C01D5438BE75E_fd9fdc0a5873184e4429a49cfcf62e78"
+						}],
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_14d3e8ef0f435615de86cada3d4276a9"
+					}]
+				},
+				"action": 0
+			}
+		},
+		"toastText": {
+			"textTips": "一问多答，3名经纪人给建议",
+			"textImMessage": "请问这个房源户型的优缺点？"
+		},
+		"expertFindhouse": {
+			"actionUrl": "https:\/\/huodong.ke.com\/experts\/findhouse?source=SECOND_HAND_HOUSE_EXPERT&channelClient=APP&type=ke&citycode=610100&device_id=098E41E5-5923-42C9-B963-E5BCE84FC173",
+			"noRecordFlag": true,
+			"ifRecordFlag": false,
+			"content": "如何选房? 找行家帮你"
+		},
+		"hotRecommend": {
+			"title": "房友们还喜欢",
+			"recommendHouses": [{
+				"title": "2室1厅 60.15㎡ 东",
+				"cityId": "610100",
+				"houseCode": "19042118610100147538",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-00b4f533-71db-418f-84ce-5d64b10b063e.jpg.280x210.jpg?from=ke.com",
+				"location": "新界\/经开",
+				"price": "77",
+				"priceUnit": "万",
+				"unitPrice": "12801.3",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "必看好房",
+					"color": "FFFFFF",
+					"bgColor": "3072F6",
+					"boldFont": 1,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_64d0a2f7d6e2d6112db43cebf704394c"
+				}, {
+					"desc": "满五年",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3b7a54a250138fa1cc69142056b5cb7a"
+				}, {
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_d04306ce216c2bb665a3543bab0ff2ab"
+				}],
+				"favCount": "83人已关注",
+				"recommendTag": "热门",
+				"recommendReason": "推荐理由：40人实地看过该房",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19042118610100147538&fbExpoId=r15635212147813557072991822260",
+				"fbExpoId": "r15635212147813557072991822260",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_34636a7a0ec1a27d0eb39f750997e867"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c4bcb79450c386d47b79cc4ff16a6928"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3362fdc05be759916906ac479a5db476"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ceb6cb8aad8bfb55652f2d8d117e70ba"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_74b36d7062884282c77a898315a91d4b"
+			}, {
+				"title": "2室1厅 73㎡ 西南 西",
+				"cityId": "610100",
+				"houseCode": "19052618610100156640",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-ec264b74-5a8b-4990-bfc1-1f00f24ce025.jpg.280x210.jpg?from=ke.com",
+				"location": "绿地香树花城\/经开",
+				"price": "102",
+				"priceUnit": "万",
+				"unitPrice": "13972.6",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "必看好房",
+					"color": "FFFFFF",
+					"bgColor": "3072F6",
+					"boldFont": 1,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_8422e9d4e87fe458babfe184b79bbd7e"
+				}, {
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_dab2bdd2ab8ee8bd68b03a7ef472c5e8"
+				}],
+				"favCount": "29人已关注",
+				"recommendTag": "降价",
+				"recommendReason": "推荐理由：近期降价相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19052618610100156640&fbExpoId=r15635212147813557072991822261",
+				"fbExpoId": "r15635212147813557072991822261",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_d84509f0ab1012510220e04a4d4a1b33"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_72e08f843869ae4d640adfc62bf26202"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c6242fa6826f7b5807a8069579e40811"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_4b0bec0cc332f94a59aa3b3689afd0fa"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_8048d3ed726c75aa561bfcc8f8bf29b8"
+			}, {
+				"title": "2室1厅 70.21㎡ 东",
+				"cityId": "610100",
+				"houseCode": "19071618610100143774",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/test-4052f9ed-1313-494e-b27e-579be808ff14.jpg.280x210.jpg?from=ke.com",
+				"location": "香榭丽都小区\/经开",
+				"price": "100",
+				"priceUnit": "万",
+				"unitPrice": "14243",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_197675a931f1504ca57b8cae974874c8"
+				}, {
+					"desc": "新上房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_25520d11f7264c17d27c94de5f74f23a"
+				}, {
+					"desc": "近地铁",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_b8d90220d30d3bf75fb7bc38dce8c811"
+				}],
+				"favCount": "2人已关注",
+				"recommendTag": "新上",
+				"recommendReason": "推荐理由：近期新上相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19071618610100143774&fbExpoId=r15635212147813557072991822262",
+				"fbExpoId": "r15635212147813557072991822262",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3ba473e73f3de3c42042460d21408c19"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_e9ee9d65507fb657a2f4cd3cbb7c50dc"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_1693b2574df6ee69700a58581ceffa12"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_06a2f487706ffea1c96cbfa1b4e6b546"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_d6530fa1e71cf86192b56926ed5dd15b"
+			}, {
+				"title": "2室1厅 66.15㎡ 北 南",
+				"cityId": "610100",
+				"houseCode": "19061518610100140652",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-eeb2d703-28b7-4d31-8466-aae05914ccd3.jpg.280x210.jpg?from=ke.com",
+				"location": "西铁大明宫小区\/经开",
+				"price": "75",
+				"priceUnit": "万",
+				"unitPrice": "11337.9",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_80bc90c9d563e08012e8c42ffbeda05b"
+				}],
+				"favCount": "18人已关注",
+				"recommendTag": "相似房源",
+				"recommendReason": "推荐理由：相似房源为您推荐",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19061518610100140652&fbExpoId=r15635212147813557072991822263",
+				"fbExpoId": "r15635212147813557072991822263",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_f0e725bb3dd9a33c128121eb62228943"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_5958a36dd78c7e7a91abaefa67bde5d8"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_7d54c03f78641efdaaeef49523aadb78"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_9852cb4cdfd2b8466a0e4655beed85ac"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_977d7be8e2670021c9991da8f1a44e67"
+			}, {
+				"title": "2室2厅 71㎡ 北",
+				"cityId": "610100",
+				"houseCode": "19030518610100123338",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-50caf0e0-ef06-49cb-a446-b3a22ac34da2.jpg.280x210.jpg?from=ke.com",
+				"location": "紫薇锦程\/经开",
+				"price": "95",
+				"priceUnit": "万",
+				"unitPrice": "13380.3",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "必看好房",
+					"color": "FFFFFF",
+					"bgColor": "3072F6",
+					"boldFont": 1,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_59fb9152161c82866de4d1ead7e701cf"
+				}, {
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ca64dd175baa6514c481b290e3113038"
+				}, {
+					"desc": "近地铁",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_43d7de6859cc2978e363c6faf0dd94c0"
+				}],
+				"favCount": "66人已关注",
+				"recommendTag": "热门",
+				"recommendReason": "推荐理由：近30天带看66次",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19030518610100123338&fbExpoId=r15635212147813557072991822264",
+				"fbExpoId": "r15635212147813557072991822264",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_8aceb69bdb4402686b2db0cafff503fe"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_479ed55989101ca4f680963ec6cd2c3e"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_2da14f1d249f893fb41006f63939e68b"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ffbde255426d3f7c9c5660f989579114"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_e937df2ce224b820711c164f4f28e374"
+			}, {
+				"title": "2室1厅 73㎡ 东",
+				"cityId": "610100",
+				"houseCode": "19032818610100127548",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-47dcd53c-c6fc-4192-87e8-87b5c27ea4c7.jpg.280x210.jpg?from=ke.com",
+				"location": "绿地香树花城\/经开",
+				"price": "116",
+				"priceUnit": "万",
+				"unitPrice": "15890.4",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_92ec701f954d601f4a649eff8e91affb"
+				}],
+				"favCount": "0人已关注",
+				"recommendTag": "降价",
+				"recommendReason": "推荐理由：近期降价相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19032818610100127548&fbExpoId=r15635212147813557072991822265",
+				"fbExpoId": "r15635212147813557072991822265",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_72c7ce42613b2f1f62a702c36f7b77e7"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_150dad0afbff8a849bd28856a7822ba2"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_5969d774812a82a373ea30dcbbb2c38c"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_d0637e0146caba3f8e04c3744e769cce"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_cbbd78d25a8a0611d103f3dd6095b01f"
+			}, {
+				"title": "3室1厅 81.5㎡ 东北",
+				"cityId": "610100",
+				"houseCode": "19071718610100132890",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/566e4314-abbf-4518-8f5a-f452a1fc38d4.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+				"location": "绿地香树花城\/经开",
+				"price": "116",
+				"priceUnit": "万",
+				"unitPrice": "14233.1",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "新上房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c27dfc4ab7bc88c6302f5dc59a83c5c6"
+				}],
+				"favCount": "5人已关注",
+				"recommendTag": "新上",
+				"recommendReason": "推荐理由：近期新上相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=19071718610100132890&fbExpoId=r15635212147813557072991822266",
+				"fbExpoId": "r15635212147813557072991822266",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_4faf9cc3db5067fda9c7053846e5bc01"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_ae8f3faaefa83c4bd977ddee247164cd"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_8a369197c0d8aea17f9bfd90fbb3437f"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_35dc6c296140309dac262ed2b56ed86a"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_aa0e74739c25189ac2729c6eb6d51e1a"
+			}, {
+				"title": "2室2厅 62.42㎡ 东",
+				"cityId": "610100",
+				"houseCode": "18120618610101198227",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-af6532aa-da2e-47e4-9a20-bfc2590e0986.jpg.280x210.jpg?from=ke.com",
+				"location": "浐灞1号\/浐灞",
+				"price": "85",
+				"priceUnit": "万",
+				"unitPrice": "13617.4",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "必看好房",
+					"color": "FFFFFF",
+					"bgColor": "3072F6",
+					"boldFont": 1,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_d8871874791a9d070cb5a174e5111a6b"
+				}, {
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_fc76e9c13ac3ff8bf5e14b0327aead1f"
+				}, {
+					"desc": "近地铁",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_092dcb243d5bc27f187cf8de8a2772a0"
+				}],
+				"favCount": "284人已关注",
+				"recommendTag": "户型相似",
+				"recommendReason": "推荐理由：户型相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=18120618610101198227&fbExpoId=r15635212147813557072991822267",
+				"fbExpoId": "r15635212147813557072991822267",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_51d0375b21055d40891928c629136868"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_f9d453ecad211dbda128654d4eb74ce9"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_13131c95ea4927d9822967d98f57b3c4"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_1a59d149e3d8a0393526c42e492cdf7a"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_7e02e4c7bd92dd33ac8d17c38df90513"
+			}, {
+				"title": "2室1厅 70.01㎡ 南",
+				"cityId": "610100",
+				"houseCode": "18120618610100265056",
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/test-55636d4e-ad8b-4ae2-a7f0-2070326484ee.png.280x210.jpg?from=ke.com",
+				"location": "兰乔圣菲\/城南",
+				"price": "90",
+				"priceUnit": "万",
+				"unitPrice": "12855.3",
+				"unitPriceUnit": "元\/平",
+				"colorTags": [{
+					"desc": "满五年",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_691dd48f187c2522e83824742f3dcf57"
+				}, {
+					"desc": "VR房源",
+					"color": "849AAE",
+					"boldFont": 0,
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_96a231174ef00606e0787a585a80511a"
+				}],
+				"favCount": "358人已关注",
+				"recommendTag": "热门",
+				"recommendReason": "推荐理由：近期热门的相似房源",
+				"schema": "lianjiabeike:\/\/ershou\/detail?houseCode=18120618610100265056&fbExpoId=r15635212147813557072991822268",
+				"fbExpoId": "r15635212147813557072991822268",
+				"negFeedBack": [{
+					"fbKey": "10001#unit_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_3219c53175c41ecfa40512797f05eec3"
+				}, {
+					"fbKey": "10002#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_d57330836e19c566ade513d54e2c12e3"
+				}, {
+					"fbKey": "10003#house_area",
+					"fbTitle": "面积不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_536d41f29c40c94b97e417e23aed8611"
+				}, {
+					"fbKey": "10004#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_a88da33742de942845aeaf9575b7a749"
+				}],
+				"negFeedBackType": "ershou_house",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_7f63fd6e74aa8fdec4e31ee982d2c7ec"
+			}],
+			"recommendResblocks": [{
+				"communityId": 3820025532424265,
+				"communityName": "紫薇锦程",
+				"cityId": 610100,
+				"location": "经开\/未央",
+				"unitPrice": "13460",
+				"unitPriceDesc": "参考均价",
+				"unitPriceUnit": "元\/平",
+				"favCount": "30人已关注",
+				"sellTitle": "在售套数:26套",
+				"schema": "lianjiabeike:\/\/community\/detailv4?communityid=3820025532424265&fbExpoId=r15635212147391505202112623510",
+				"fbExpoId": "r15635212147391505202112623510",
+				"recommendTag": "相似小区",
+				"recommendReason": "推荐理由：喜欢该小区的用户12%也喜欢",
+				"negFeedBack": [{
+					"fbKey": "10008#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_64691f9b9ca39ffb05d1deb4d82f10a2"
+				}, {
+					"fbKey": "10007#developer",
+					"fbTitle": "开发商不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c79524a069c13710ef7cb877a6f42b7e"
+				}, {
+					"fbKey": "10006#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_99ed4b4487f815db1125067b26f1be76"
+				}, {
+					"fbKey": "10005#resblock_avg_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_af3586cb7d4e595987238e7ebbd9f6a9"
+				}],
+				"negFeedBackType": "resblock",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_daa4c60273834bbbc8cd60dbd2f9fcc6"
+			}, {
+				"communityId": 3811057520817,
+				"communityName": "辰宫双河湾",
+				"cityId": 610100,
+				"location": "经开\/未央",
+				"unitPrice": "8748",
+				"unitPriceDesc": "参考均价",
+				"unitPriceUnit": "元\/平",
+				"favCount": "72人已关注",
+				"sellTitle": "在售套数:57套",
+				"schema": "lianjiabeike:\/\/community\/detailv4?communityid=3811057520817&fbExpoId=r15635212147391505202112623511",
+				"fbExpoId": "r15635212147391505202112623511",
+				"recommendTag": "相似小区",
+				"recommendReason": "推荐理由：喜欢该小区的用户12%也喜欢",
+				"negFeedBack": [{
+					"fbKey": "10008#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_dce13ca6a9eab34e440ad0e1feebbca1"
+				}, {
+					"fbKey": "10007#developer",
+					"fbTitle": "开发商不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_595618825c4dada4cf4b8bcdd1863834"
+				}, {
+					"fbKey": "10006#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_a02a1d644b578eeaee93566b0319b278"
+				}, {
+					"fbKey": "10005#resblock_avg_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c89c0ef70290107960812af757189ebe"
+				}],
+				"negFeedBackType": "resblock",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_1d54293a9494e07cc1505880085b8322"
+			}, {
+				"communityId": 3811058222305,
+				"communityName": "台北湾",
+				"cityId": 610100,
+				"coverPic": "http:\/\/ke-image.ljcdn.com\/hdic-resblock\/46f0f44c-52e3-47d9-944b-203ceeeccda4.jpg.280x210.jpg?from=ke.com",
+				"location": "经开\/未央",
+				"unitPrice": "11806",
+				"unitPriceDesc": "参考均价",
+				"unitPriceUnit": "元\/平",
+				"favCount": "134人已关注",
+				"sellTitle": "在售套数:186套",
+				"schema": "lianjiabeike:\/\/community\/detailv4?communityid=3811058222305&fbExpoId=r15635212147391505202112623512",
+				"fbExpoId": "r15635212147391505202112623512",
+				"recommendTag": "相似小区",
+				"recommendReason": "推荐理由：喜欢该小区的用户10%也喜欢",
+				"negFeedBack": [{
+					"fbKey": "10008#unknown",
+					"fbTitle": "其他不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_9f52a2c97072b9904c80ff591cabd5d5"
+				}, {
+					"fbKey": "10007#developer",
+					"fbTitle": "开发商不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_6b02824733943b5def62de67f6d01e71"
+				}, {
+					"fbKey": "10006#bizcircle_id",
+					"fbTitle": "位置不喜欢",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_5f47b36ffbe432a067419db8b952c240"
+				}, {
+					"fbKey": "10005#resblock_avg_price",
+					"fbTitle": "价格不合适",
+					"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_aa50ff470737fb2721248c2c36ae5366"
+				}],
+				"negFeedBackType": "resblock",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_413e2038ad2a23093947d1b006503e52"
+			}]
+		},
+		"isDefault": false,
+		"showWenan": {
+			"title": "本房随时可看",
+			"subtitle": "马上咨询",
+			"buttontitle": "咨询看房",
+			"port": "app_beike_ershouplat_detail_ershoufang_kekanzixun"
+		},
+		"houseSurvey": "1,2",
+		"serviceCommitmentAndVR": {
+			"lv": 3,
+			"title": "安心服务承诺",
+			"subtitle": "服务用心，让您安心",
+			"desc": "服务用心，让您安心"
+		},
+		"promiseDetailUrl": "https:\/\/rule.ke.com\/#\/promise\/list?cityCode=610100&busiType=1",
+		"canReport": 1,
+		"appHaofang": {
+			"jumpTitle": "了解更多",
+			"bannerPic": "https:\/\/ke-image.ljcdn.com\/beike\/haofang\/1562049194426.png",
+			"mUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fhaofang%2Fyonghu%2F",
+			"list": [{
+				"type": "bigData",
+				"title": "大家都在看这套房",
+				"dataName": "关注量",
+				"detail": "80人关注此房",
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_7962832e66788147727eff22e19a0061"
+			}],
+			"dateDescription": "数据更新至今天00:00"
+		},
+		"hasFollowedPrice": 1,
+		"bangdan": {
+			"title": "所在小区入选经开热搜小区榜第4名",
+			"iconUrl": "https:\/\/img.ljcdn.com\/beike\/bangdan\/1555329313792.png",
+			"actionUrl": "https:\/\/m.ke.com\/xa\/bangdan\/jingkai1\/ibd6\/?source=ershou_detail"
+		},
+		"nav": [{
+			"name": "房源",
+			"key": "basicInfo",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_ca9865dbdfaf00b3940908c64419772a"
+		}, {
+			"name": "详情",
+			"key": "position_surrounding",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_0ad19ef16760cb613ebad06f78fcd27d"
+		}, {
+			"name": "动态",
+			"key": "house_news",
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_5049e684da3d4bf404d186363ada357d"
+		}],
+		"arroundConsult": [{
+			"ques": "房子首付和税费是多少？",
+			"agent": {
+				"name": "王斌",
+				"agentUcid": 1000001000163586,
+				"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/16b583e1-1214-4caf-9083-38f8c3a5d611.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000163586%2F",
+				"mobilePhone": "13299022672",
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": 1000001000163586,
+					"phoneChannel": "agent_ershoufang",
+					"phoneCallId": "19061118610100111284",
+					"phoneTime": 1563521215,
+					"hidePhone": false,
+					"businessDigV": "{\"u\":1000001000163586,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000163586_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"phoneSign": "0b1540e501dbd0c50cb3131d15cb8359"
+				},
+				"imInfo": {
+					"agentUcid": 1000001000163586,
+					"imPort": "app_beike_ershou_zaixianxiangqing_tiwen",
+					"hideIm": false
+				},
+				"brandInfo": {
+					"text": "百年行",
+					"textColor": "9399A5",
+					"bgColor": "EFF0F2"
+				},
+				"titleInfo": {
+					"text": "4.2 | 6人评价",
+					"textColor": "101D37",
+					"bgColor": "FFFFFF"
+				},
+				"statistics": {
+					"agentUcid": 1000001000163586,
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000163586,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000163586_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000163586,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000292,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000163586_3811057377717\\\",\\\"rid\\\":\\\"4608470386793763040\\\"}\"}"
+				},
+				"phoneStyleType": 1,
+				"vipLevel": 0,
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_e01f1a2e22d2b6a7fa77b853f4c24f67"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_eb162ee097aa88c05486f52f08889893"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_a7e31231117438cd6ccec772c7ca7889"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_f7721d979f5a44b87132e1b1387fb11a"
+				}]
+			},
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_499e469a3dc4d9c693a0f3e5f1225366"
+		}, {
+			"ques": "房子着急卖吗？",
+			"agent": {
+				"name": "薛文昌",
+				"agentUcid": 1000001000190253,
+				"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/72d00fcf-4c6c-4991-b27d-108bdf49fde7.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000190253%2F",
+				"mobilePhone": "17692159880",
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": 1000001000190253,
+					"phoneChannel": "agent_ershoufang",
+					"phoneCallId": "19061118610100111284",
+					"phoneTime": 1563521215,
+					"hidePhone": false,
+					"businessDigV": "{\"u\":1000001000190253,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000190253_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"phoneSign": "c958520d81630169d19d5cc996d616d5"
+				},
+				"imInfo": {
+					"agentUcid": 1000001000190253,
+					"imPort": "app_beike_ershou_zaixianxiangqing_tiwen",
+					"hideIm": false
+				},
+				"brandInfo": {
+					"text": "德佑",
+					"textColor": "9399A5",
+					"bgColor": "EFF0F2"
+				},
+				"titleInfo": {
+					"text": "5.0 | 2人评价",
+					"textColor": "101D37",
+					"bgColor": "FFFFFF"
+				},
+				"statistics": {
+					"agentUcid": 1000001000190253,
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000190253,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000190253_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000190253,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000292,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000190253_3811057377717\\\",\\\"rid\\\":\\\"4608470386793763040\\\"}\"}"
+				},
+				"phoneStyleType": 1,
+				"vipLevel": 0,
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190507175653047LTL28G9R.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_3e8ceabccb8c0b31104c6f5ac183c73f"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_fe90d0decaf4288fc800159a656f9617"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190507175653047LTL28G9R.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_622d40360325716cfe39310d0adb0e8a"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_fb15a318e71b1930ece3e921114fe473"
+				}]
+			},
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_569e7bd864a3525a4307694337846c1b"
+		}, {
+			"ques": "周边的中小学情况？",
+			"agent": {
+				"name": "归朋俞",
+				"agentUcid": 1000000026069183,
+				"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/6b934e09-81b8-44b4-b903-2217608ba851.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000000026069183%2F",
+				"mobilePhone": "15529302202",
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": 1000000026069183,
+					"phoneChannel": "agent_ershoufang",
+					"phoneCallId": "19061118610100111284",
+					"phoneTime": 1563521215,
+					"hidePhone": false,
+					"businessDigV": "{\"u\":1000000026069183,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000000026069183_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"phoneSign": "5e229049a67e1d318595a681020fb2db"
+				},
+				"imInfo": {
+					"agentUcid": 1000000026069183,
+					"imPort": "app_beike_ershou_zaixianxiangqing_tiwen",
+					"hideIm": false
+				},
+				"brandInfo": {
+					"text": "链家",
+					"textColor": "9399A5",
+					"bgColor": "EFF0F2"
+				},
+				"titleInfo": {
+					"text": "5.0 | 11人评价",
+					"textColor": "101D37",
+					"bgColor": "FFFFFF"
+				},
+				"statistics": {
+					"agentUcid": 1000000026069183,
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000000026069183,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000000026069183_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000000026069183,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000292,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000000026069183_3811057377717\\\",\\\"rid\\\":\\\"4608470386793763040\\\"}\"}"
+				},
+				"phoneStyleType": 1,
+				"vipLevel": 0,
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png",
+					"special": [{
+						"desc": "客户推荐前10%",
+						"color": "3072F6",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_10a574b69c8a2fbe2d3a99d8fa0d935e"
+					}, {
+						"desc": "业务精英前10%",
+						"color": "3072F6",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_4a8a4568252d15df7a1993216b657409"
+					}]
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226154249827SAKRQ5WR.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_ed77c0e3da175d8683fc5c6b03e5ab07"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_c017953fba13ac8d76e00aaeda86fbcf"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181226154249827SAKRQ5WR.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_71d63fbd8c0bcffb5160e6a5500b1429"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_f20d8480c80ea2a4bff93328a649c8f6"
+				}]
+			},
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_617e213bf811ec9915c15ca6358ce9da"
+		}, {
+			"ques": "房子所在区域及周边介绍",
+			"agent": {
+				"name": "郭娜娜",
+				"agentUcid": 1000001000241996,
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000241996%2F",
+				"mobilePhone": "15029619060",
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": 1000001000241996,
+					"phoneChannel": "agent_ershoufang",
+					"phoneCallId": "19061118610100111284",
+					"phoneTime": 1563521215,
+					"hidePhone": false,
+					"businessDigV": "{\"u\":1000001000241996,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000241996_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"phoneSign": "c7a04fa65391dc51149565aa7b8f22be"
+				},
+				"imInfo": {
+					"agentUcid": 1000001000241996,
+					"imPort": "app_beike_ershou_zaixianxiangqing_tiwen",
+					"hideIm": false
+				},
+				"brandInfo": {
+					"text": "百年行",
+					"textColor": "9399A5",
+					"bgColor": "EFF0F2"
+				},
+				"titleInfo": {
+					"text": "5.0 | 4人评价",
+					"textColor": "101D37",
+					"bgColor": "FFFFFF"
+				},
+				"statistics": {
+					"agentUcid": 1000001000241996,
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000241996,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000241996_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000241996,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000292,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000241996_3811057377717\\\",\\\"rid\\\":\\\"4608470386793763040\\\"}\"}"
+				},
+				"phoneStyleType": 1,
+				"vipLevel": 0,
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_97bf76acaf3c7b0a90e1a8d06fdcbf3b"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_64388008d17d37cfa69be644d207d3ad"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_47cd722adc78feaecb5c2d2808203bbd"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_2fb5240049e652c79f8c2a4c734a3529"
+				}]
+			},
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_fa62f48c01a7067286c799e9f3971166"
+		}, {
+			"ques": "套内面积是多少？",
+			"agent": {
+				"name": "梁鹏艳",
+				"agentUcid": 1000001000075817,
+				"photoUrl": "http:\/\/ke-image.ljcdn.com\/usercenter\/images\/uc_ehr_avatar\/593bb712-e183-4db7-9392-224cce7769a7.jpg.120x160.png?from=ke.com",
+				"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000075817%2F",
+				"mobilePhone": "18392418273",
+				"phoneInfo": {
+					"cityId": "610100",
+					"agentUcid": 1000001000075817,
+					"phoneChannel": "agent_ershoufang",
+					"phoneCallId": "19061118610100111284",
+					"phoneTime": 1563521215,
+					"hidePhone": false,
+					"businessDigV": "{\"u\":1000001000075817,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000075817_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"phoneSign": "8a1340c5a527f4120a63a3731ed83b18"
+				},
+				"imInfo": {
+					"agentUcid": 1000001000075817,
+					"imPort": "app_beike_ershou_zaixianxiangqing_tiwen",
+					"hideIm": false
+				},
+				"brandInfo": {
+					"text": "馨慧",
+					"textColor": "9399A5",
+					"bgColor": "EFF0F2"
+				},
+				"titleInfo": {
+					"text": "4.3 | 6人评价",
+					"textColor": "101D37",
+					"bgColor": "FFFFFF"
+				},
+				"statistics": {
+					"agentUcid": 1000001000075817,
+					"cityId": "610100",
+					"strategyInfo": "{\"u\":1000001000075817,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000292,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000075817_3811057377717\",\"rid\":\"4608470386793763040\"}",
+					"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000075817,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000292,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000075817_3811057377717\\\",\\\"rid\\\":\\\"4608470386793763040\\\"}\"}"
+				},
+				"phoneStyleType": 1,
+				"vipLevel": 0,
+				"agentTags": {
+					"generalUrl": "https:\/\/img.ljcdn.com\/beike\/beike\/agentTags\/1558614247823.png"
+				},
+				"cards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228155102772HAIXRS6I.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_e0a6b884e364c9fbaf9b7d9ddd399ffe"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_0198a8bfa54ecf70993be081cf323f7a"
+				}],
+				"orgCards": [{
+					"desc": "房源发布机构",
+					"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+					"class": "company_card_pic",
+					"lists": [{
+						"type": 31,
+						"title": "营业执照",
+						"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20181228155102772HAIXRS6I.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+						"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+						"eleid": "010A1A640D7B6720096C01D5438BE75E_797b1ff46ef31bd0243e29624fa0daa2"
+					}],
+					"eleid": "010A1A640D7B6720096C01D5438BE75E_9a8c286db71a5e23391dbb77a4e77db1"
+				}]
+			},
+			"eleid": "010A1A640D7B6720096C01D5438BE75E_c2921fb522ca09852d57be8a7b6d1b42"
+		}],
+		"frameInfo": {
+			"name": "户型解读",
+			"score": {
+				"name": "户型测评：",
+				"value": 8.1,
+				"stage": "优秀"
+			},
+			"scoreList": [{
+				"name": "空间尺度",
+				"type": "spaceScore",
+				"value": 9.5,
+				"total": 10,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_89e6142f05656462016137e3552f4e93"
+			}, {
+				"name": "房屋通透",
+				"type": "transScore",
+				"value": 7.3,
+				"total": 10,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_9e1ba3854d5c341da73a1ab29004b700"
+			}, {
+				"name": "房屋功能",
+				"type": "usageScore",
+				"value": 8.1,
+				"total": 10,
+				"eleid": "010A1A640D7B6720096C01D5438BE75E_180875df0421a11e0aa52b6dc78996f1"
+			}],
+			"actionUrl": {
+				"name": "查看户型优缺点",
+				"schema": "lianjiabeike:\/\/web\/main?login=false&url=http%3A%2F%2Fhuodong.ke.com%2Fframe%2Freportdetail%3FhouseCode%3D19061118610100111284%26cityId%3D610100%26agentId%3D1000000023030841%26login%3D1%26refer%3D1"
+			},
+			"from": "0"
+		},
+		"viewDuration": 180,
+		"isTop": "0"
+	},
+	"cost": 1014
+}

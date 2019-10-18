@@ -1,0 +1,31 @@
+https://app.api.ke.com/openapi/feed/api/feed/freshchannel?request_ts=1563524538
+
+
+{
+    "error_code": 0,
+    "error_msg": "success",
+    "request_id": 2759349529,
+    "data": [
+        {
+            "name": "推荐",
+            "key": "0",
+            "eleid": "010A1A6409851F53096C01405CD6BFBD_77c1bf5f6a742c46ce255be9ae1bbb4e"
+        },
+        {
+            "name": "西安",
+            "key": "1",
+            "eleid": "010A1A6409851F53096C01405CD6BFBD_8f044b71c8c467132cd5a5a4bf575f43"
+        },
+        {
+            "name": "行情",
+            "key": "3",
+            "eleid": "010A1A6409851F53096C01405CD6BFBD_dc8c445e2d0e8779867981524ebfedef"
+        },
+        {
+            "name": "大V观点",
+            "key": "2",
+            "eleid": "010A1A6409851F53096C01405CD6BFBD_fea50fbdfdc0fb675b41180d3f3f83a3"
+        }
+    ],
+    "uniqid": "010A1A6409851F53096C01405CD6BFBD"
+}

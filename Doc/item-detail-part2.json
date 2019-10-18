@@ -1,0 +1,976 @@
+https://app.api.ke.com/house/ershoufang/detailpart2v1?cityId=610100&houseCode=19061118610100111284&request_ts=1563521214
+
+
+
+{
+	"request_id": "010A1A640FFC6720096C01BE6C115A57",
+	"uniqid": "010A1A640FFC6720096C01BE6C115A57",
+	"errno": 0,
+	"error": "",
+	"data": {
+		"cityId": "610100",
+		"communityCard": {
+			"sameCommunityDeal": {
+				"name": "同小区成交 (16)",
+				"actionUrl": "lianjiabeike:\/\/tradedSearch\/same_community?community_id=3811057377717&city_id=610100&condition=c3811057377717&search_type=3",
+				"list": [{
+					"houseCode": "101104923542",
+					"title": "3室1厅 \/ 81.67㎡ \/ 西北",
+					"desc": " 单价12490元\/平，2019.07.04成交",
+					"realDesc": " 单价12490元\/平，2019.07.04成交",
+					"price": "102万",
+					"realPrice": "102万",
+					"requireLogin": 0,
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_d549f7ef0c61886f7a549ae9e41707fd"
+				}, {
+					"houseCode": "101104585695",
+					"title": "3室1厅 \/ 92.29㎡ \/ 南",
+					"desc": " 单价13003元\/平，2019.07.03成交",
+					"realDesc": " 单价13003元\/平，2019.07.03成交",
+					"price": "120万",
+					"realPrice": "120万",
+					"requireLogin": 0,
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_c26090443aa03b789b5235fed8d0a90e"
+				}]
+			},
+			"sameCommunityHouse": {
+				"name": "同小区房源",
+				"ershoufang": {
+					"name": "二手房",
+					"moreDesc": "同小区在售120套",
+					"actionUrl": "lianjiabeike:\/\/erShou\/community_list?city_id=610100&community_id=3811057377717&title=绿地香树花城",
+					"list": [{
+						"houseCode": "19061118610100111284",
+						"title": "2室2厅 \/ 70㎡ \/ 西",
+						"price": "89万",
+						"unitPrice": "12,714元\/平",
+						"communityName": "绿地香树花城",
+						"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-27158cde-1085-4b56-b60c-a69a9674e0f2.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+						"isGoodHouse": true,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_4f32a4448a66299279cb302a6e2c8b8e"
+					}, {
+						"houseCode": "19052618610100156640",
+						"title": "2室1厅 \/ 73㎡ \/ 西",
+						"price": "102万",
+						"unitPrice": "13,973元\/平",
+						"communityName": "绿地香树花城",
+						"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-ec264b74-5a8b-4990-bfc1-1f00f24ce025.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+						"isGoodHouse": true,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_e0935873970412b74c9aafd8b0de121d"
+					}, {
+						"houseCode": "19062118610100168578",
+						"title": "3室1厅 \/ 81.51㎡ \/ 西",
+						"price": "120万",
+						"unitPrice": "14,722元\/平",
+						"communityName": "绿地香树花城",
+						"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-626818a3-9ff2-406d-8726-48ed6c73f468.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+						"isGoodHouse": true,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_05bef2eb257f7bad7fc4d961030ffc1d"
+					}]
+				},
+				"zufang": {
+					"navText": "在租房源",
+					"name": "租房",
+					"totalCount": 57,
+					"moreDesc": "同小区在租57套",
+					"hasMoreData": 1,
+					"actionUrl": "lianjiabeike:\/\/rentplat\/house\/list\/subset?city_id=610100&community_id=3811057377717&title=绿地香树花城",
+					"list": [{
+						"scheme": "lianjiabeike:\/\/rentplat\/house\/detail\/distribute?house_code=XA2301279829381103616",
+						"houseCode": "XA2301279829381103616",
+						"title": "三彩家  71㎡ 经开",
+						"price": "2036元\/月",
+						"coverPic": "https:\/\/ke-image.ljcdn.com\/rent-user-avatar\/8d0ebfa1-e961-440e-8e36-e638a9651d47.280x210.jpg",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_18cd32257ec9815b19c5bb34b418022b"
+					}, {
+						"scheme": "lianjiabeike:\/\/rentplat\/house\/detail\/distribute?house_code=XA2237447182951120896",
+						"houseCode": "XA2237447182951120896",
+						"title": "职业房东  11㎡ 经开",
+						"price": "850元\/月",
+						"coverPic": "https:\/\/ke-image.ljcdn.com\/rent-user-avatar\/21e602a8-e9e5-4dc3-9bf2-169c3c1ff2b2.280x210.jpg",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_80cb2f159fa17be18ceef9a247bbb0f0"
+					}, {
+						"scheme": "lianjiabeike:\/\/rentplat\/house\/detail\/distribute?house_code=XA2283337855596240896",
+						"houseCode": "XA2283337855596240896",
+						"title": " 20㎡ 经开",
+						"price": "1000元\/月",
+						"coverPic": "https:\/\/ke-image.ljcdn.com\/610100-inspection\/c3818396-8be3-4749-856c-c6ba69634b7b.jpg.280x210.jpg",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_29015706d6df79ef99f711af7208e17d"
+					}]
+				}
+			},
+			"lowerConsult": {
+				"ques": "这套房源价格还有优惠空间吗？",
+				"title": "咨询房屋底价",
+				"agent": {
+					"name": "郭娜娜",
+					"agentUcid": 1000001000241996,
+					"agentUrl": "lianjiabeike:\/\/web\/main?login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fjingjiren%2F1000001000241996%2F",
+					"mobilePhone": "15029619060",
+					"phoneInfo": {
+						"cityId": "610100",
+						"agentUcid": 1000001000241996,
+						"phoneChannel": "app_beike_ershou_zaixianxiangqing_dijia",
+						"phoneCallId": "19061118610100111284",
+						"phoneTime": 1563521215,
+						"hidePhone": false,
+						"businessDigV": "{\"u\":1000001000241996,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000299,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000241996_3811057377717\",\"rid\":\"4608470388249710784\"}",
+						"phoneSign": "3e62e9631eb4ff28b79593306de7b1da"
+					},
+					"imInfo": {
+						"agentUcid": 1000001000241996,
+						"imPort": "app_beike_ershou_zaixianxiangqing_dijia",
+						"hideIm": false
+					},
+					"brandInfo": {
+						"text": "百年行",
+						"textColor": "9399A5",
+						"bgColor": "EFF0F2"
+					},
+					"titleInfo": {
+						"text": "5.0 | 4人评价",
+						"textColor": "101D37",
+						"bgColor": "FFFFFF"
+					},
+					"statistics": {
+						"agentUcid": 1000001000241996,
+						"cityId": "610100",
+						"strategyInfo": "{\"u\":1000001000241996,\"v\":\"V1\",\"s\":\"NATURAL\",\"adId\":100000299,\"flow\":\"natural\",\"b\":\"DisplayDiamondBuilder\",\"p\":null,\"sid\":\"1000001000241996_3811057377717\",\"rid\":\"4608470388249710784\"}",
+						"appData": "{\"business_dig_v\":\"{\\\"u\\\":1000001000241996,\\\"v\\\":\\\"V1\\\",\\\"s\\\":\\\"NATURAL\\\",\\\"adId\\\":100000299,\\\"flow\\\":\\\"natural\\\",\\\"b\\\":\\\"DisplayDiamondBuilder\\\",\\\"p\\\":null,\\\"sid\\\":\\\"1000001000241996_3811057377717\\\",\\\"rid\\\":\\\"4608470388249710784\\\"}\"}"
+					},
+					"phoneStyleType": 1,
+					"vipLevel": 0,
+					"cards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640FFC6720096C01BE6C115A57_6fd62a5e3af3ce0e9d2c1174953c3f46"
+						}],
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_70030a4b7755616d870a02a0eac25088"
+					}],
+					"orgCards": [{
+						"desc": "房源发布机构",
+						"icon": "http:\/\/ke-image.ljcdn.com\/beike\/1545043551040.png",
+						"class": "company_card_pic",
+						"lists": [{
+							"type": 31,
+							"title": "营业执照",
+							"img": "http:\/\/ke-image.ljcdn.com\/ehr-personnel\/20190312192443358K3THJRUA.jpg!m_fit,w_1000,l_fbk,ls_50,o_auto?from=ke.com",
+							"desc": "企业信用信息查询网址：http:\/\/www.gsxt.gov.cn\/index.html",
+							"eleid": "010A1A640FFC6720096C01BE6C115A57_342c638e6cd08e60568733758dd78fc4"
+						}],
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_a5e4f886d75d9b351ac6b1d4158fe3db"
+					}]
+				},
+				"usedFor": 2
+			},
+			"name": "绿地香树花城",
+			"moreDesc": "小区详情",
+			"resblockAnchor": "resblock_anchor",
+			"actionUrl": "lianjiabeike:\/\/community\/detailv4?communityid=3811057377717",
+			"basicInfo": {
+				"actionUrl": "lianjiabeike:\/\/community\/detailv4?communityid=3811057377717",
+				"unitPrice": {
+					"name": "参考均价：",
+					"value": "16,819元\/平"
+				},
+				"list": [{
+					"name": "在售房源：",
+					"value": "120套",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_63932533275ee6fc39fd3678ebf69076"
+				}, {
+					"name": "产权年限：",
+					"value": "40-70年",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_82f4218e5e885908bf05f3986fcc8bac"
+				}]
+			},
+			"newStrategy": {
+				"title": "浐灞经开交界地带的花园社区",
+				"score": "7.2",
+				"url": "lianjiabeike:\/\/web\/main?hidenav=1&login=false&url=https%3A%2F%2Fm.ke.com%2Fxa%2Fxiaoqu%2F3811057377717%2FgonglueV2.html%3Fhidenav%3D1%26click_source%3Dapp_house_aladdin"
+			}
+		},
+		"recommend": {
+			"community": {
+				"name": "周边小区 (1)",
+				"list": [{
+					"communityId": "3811057577010",
+					"communityName": "祥和居",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/hdic-resblock\/f40f6892-0008-48f3-8b71-fb004a9d0525.jpg.280x210.jpg?from=ke.com",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildingType": "塔楼 \/ 塔板结合",
+					"buildingFinishYear": "1998年建",
+					"unitPrice": "5,828元\/平",
+					"schema": "lianjiabeike:\/\/community\/detailv4?communityid=3811057577010&fb_expo_id=204619697112023043",
+					"fbExpoId": "204619697112023043",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_b49387c9b5df5b88949e32155eec1aae"
+				}]
+			},
+			"house": {
+				"name": "推荐二手房",
+				"actionUrl": "lianjiabeike:\/\/page\/ershou\/recommend\/list\/nearby?city_id=610100&house_code=19061118610100111284&invalid_house_id=19030518610100123338,18120618610101490374,18120618610101198227,18120618610100265056,19060918610100153684,19060218610100141088,19062218610100110377,19051618610100127940,19061518610100140652,19062118610100200822,19060718610100127471,19061218610100102765",
+				"moreDesc": "更多推荐房源",
+				"showNumber": 6,
+				"totalNumber": 12,
+				"list": [{
+					"houseCode": "19030518610100123338",
+					"title": "紫薇锦程 2室2厅 北",
+					"desc": "未央 经开 | 71㎡ | 高楼层 共33层",
+					"priceStr": "95",
+					"priceUnit": "万",
+					"unitPriceStr": "13,380元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-50caf0e0-ef06-49cb-a446-b3a22ac34da2.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c9afeda2bd0875b368fe31399977d890"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b951c8e67b0b4311d18bc3cb15ef45cb"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_0f5abbd07429aacb1cd53569396f7558"
+					}, {
+						"desc": "有钥匙",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_10875702540ad010c1ced7728576adc8"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_4d0a04c422f84ad2f820883b67759dd5"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_e9a596f356526ebfd9ba8008b63117fd"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_2f512ee7df0a227be7dac801d4b5ce1c"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_ffb5121f77bb782652d5e03c9747d7e2"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329370",
+					"recomTag": {
+						"desc": "看了又看",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_3767eb60638a1df416885273f2d20189"
+				}, {
+					"houseCode": "18120618610101490374",
+					"title": "紫薇锦程 2室2厅 北",
+					"desc": "未央 经开 | 70.2㎡ | 高楼层 共33层",
+					"priceStr": "99",
+					"priceUnit": "万",
+					"unitPriceStr": "14,095元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-f8633bdc-945e-48c6-a131-d3ea5efdee31.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_a0f565da31e9e981c99ad628516db2bc"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_4e793b520b48e80e8c8604de3d8c80b5"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c034cc0868bbb2f65e865669daa93bfb"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_9098fc228d735561748a64e53aed8c8b"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_6e0c471703819b7b7efd1bad0c839d99"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c081b5cc11fec6994d66ffb2d9f26b9f"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329371",
+					"recomTag": {
+						"desc": "看了又看",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_50496c0b7b2edafcc90dd7396c4bb2f0"
+				}, {
+					"houseCode": "18120618610101198227",
+					"title": "浐灞1号 2室2厅 东",
+					"desc": "未央 浐灞 | 62.4㎡ | 高楼层 共32层",
+					"priceStr": "85",
+					"priceUnit": "万",
+					"unitPriceStr": "13,617元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-af6532aa-da2e-47e4-9a20-bfc2590e0986.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_2d355e1d1cf180db6f6ae30698a3da80"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_351a8f7e95811ea6e6c27ee14d55b66b"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_78c5fb3fd8d3e50b806d8b89f284196e"
+					}, {
+						"desc": "有钥匙",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c0f772cd12e3052027743c99d8d235f0"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3638c7fc86bdfc5cc3bfa8b1d4838608"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_cb4bc3fdaf58456278e14fa874cdb11b"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_58023a29a72212b13f41152678df6184"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_e429ee0a31f0640cb0c6e68bec5a90fa"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329372",
+					"recomTag": {
+						"desc": "户型相似",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_f624c9ebf7739fe797a89d5b8f1d403d"
+				}, {
+					"houseCode": "18120618610100265056",
+					"title": "兰乔圣菲 2室1厅 南",
+					"desc": "雁塔 城南 | 70㎡ | 中楼层 共28层",
+					"priceStr": "90",
+					"priceUnit": "万",
+					"unitPriceStr": "12,855元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/test-55636d4e-ad8b-4ae2-a7f0-2070326484ee.png!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "满五年",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_0c0b2e84913b769bd094726819432631"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_ba90ad1a0868cc66d510d165a549866f"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_587d0c0358f6ff7d859107829dea53bd"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_a55eedc996a4b2e885feb597a18b30d3"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_f9ab50ecd89b47c5870ff89d81352b7d"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_4078b9dced6a7963e2752e385899a640"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329373",
+					"recomTag": {
+						"desc": "户型相似",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_b6f6d20c813bc45e72838e5eac27d644"
+				}, {
+					"houseCode": "19060918610100153684",
+					"title": "东安叁城 2室1厅 西南",
+					"desc": "新城区 城北 | 72.9㎡ | 高楼层 共18层",
+					"priceStr": "94.7",
+					"priceUnit": "万",
+					"unitPriceStr": "12,997元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-215bcc3e-72a9-4284-9e12-9f36df47034b.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_a6406122905e4c7bd2773b61b9504e67"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_995c841de740ec4d02081659691b1635"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3560086df42b0b1e8e807d5ae4340154"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_14306d58f9b72df42e2c2b0fb662ee70"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c5fd097b853f7e809d31b119e8c56833"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_2930c2893eac42248aa3cfae8082e790"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_f1710160ee83bd1fdd8856db85e132b4"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329374",
+					"recomTag": {
+						"desc": "户型相似",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_bac557f5cdd506b47deff6bcb28e3a5c"
+				}, {
+					"houseCode": "19060218610100141088",
+					"title": "正天雅居 2室1厅 北",
+					"desc": "莲湖 城北 | 75㎡ | 低楼层 共29层",
+					"priceStr": "82",
+					"priceUnit": "万",
+					"unitPriceStr": "10,933元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-5801538a-50ce-4378-9695-4927adc00994.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3519285c9c298bce74332da5c1d54a51"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_525ca7afcf1aaaaadfeeff0afea14236"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_bce9783fc7407e98e98db8a808ca751f"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_45b859566df0b868c5f2d6e0618d4f9f"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b3c2794791535009a0da487c14e71f9d"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_11c0c98a36fb4c8777a20ee8a8c9ca4b"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329375",
+					"recomTag": {
+						"desc": "户型相似",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_ab057a78f487a9d1bad330eb8c2b8688"
+				}, {
+					"houseCode": "19062218610100110377",
+					"title": "上东大道 2室1厅 北",
+					"desc": "未央 浐灞 | 67.4㎡ | 高楼层 共32层",
+					"priceStr": "90",
+					"priceUnit": "万",
+					"unitPriceStr": "13,361元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-cc97a5d8-1ec4-4c53-9ca9-a930edf2286b.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_9aac5f81283da98237cb77e48a458a6f"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_a9ab3815287edc9a0870f7faad19d70c"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b302f6c4470dc616121a0e640c3414fb"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_26541818fe331fe9d12905746393d8f8"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_9ed838ce262b3bbfba745a412c286a9b"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_e4113aa3bb48c5e24857086cbb623ed2"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329376",
+					"recomTag": {
+						"desc": "总价相近",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_ee738e90f82cf80192f5c9202f80a392"
+				}, {
+					"houseCode": "19051618610100127940",
+					"title": "浐灞1号 2室1厅 南",
+					"desc": "未央 浐灞 | 67㎡ | 中楼层 共32层",
+					"priceStr": "90",
+					"priceUnit": "万",
+					"unitPriceStr": "13,433元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-4b77412e-6e02-49b4-be1b-4f17288c2fba.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b932b5736a3ac683d6c2afdeae8d2884"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_f0fb2b03b6be1912544166592fe78c80"
+					}, {
+						"desc": "近地铁",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_1a145676d5b3b12efc0fc76302097ddb"
+					}, {
+						"desc": "有钥匙",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c52ca3648d59f8312f1b1777b46c7d11"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3a70bf4770cd1145c8748526e82b4ad9"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b740bd1b531a44302e42954ab37193a4"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_0427707c3b9684e707bfed48d7474d83"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3f8953620f8d5b92e37d7f9646f83d1a"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329377",
+					"recomTag": {
+						"desc": "总价相近",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_a6d872dc7da24c0aa93b83bd53e4d417"
+				}, {
+					"houseCode": "19061518610100140652",
+					"title": "西铁大明宫小区 2室1厅 北南",
+					"desc": "未央 经开 | 66.2㎡ | 高楼层 共7层",
+					"priceStr": "75",
+					"priceUnit": "万",
+					"unitPriceStr": "11,338元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-eeb2d703-28b7-4d31-8466-aae05914ccd3.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_b0f928a0d2a9f2536d5a1fd846acfb16"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_7618441b0365640a80ffb425f2af7fe8"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_da48b3ddae52923cd20ca98f1fdef2ab"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_8f721630ab654249bcf81f9ca2beafef"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_1b1edb815a64638cf6af4d0f1651540c"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329378",
+					"recomTag": {
+						"desc": "相似房源",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_37e10feda0c2794d404b7f6cc65cf87e"
+				}, {
+					"houseCode": "19062118610100200822",
+					"title": "福安花园 2室2厅 南北",
+					"desc": "未央 城北 | 76.6㎡ | 高楼层 共7层",
+					"priceStr": "81",
+					"priceUnit": "万",
+					"unitPriceStr": "10,579元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-5f4c1779-0545-485d-b6a8-a297eb96bbcd.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "必看好房",
+						"color": "FFFFFF",
+						"bgColor": "3072F6",
+						"boldFont": 1,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_524426279c9cdb9836e8e4333c56f769"
+					}, {
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_800e6082f78c88d49a4bda6a95633c4e"
+					}, {
+						"desc": "满两年",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_11b10b7a87ee5534fb461d462d4d43e1"
+					}, {
+						"desc": "有钥匙",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_e65f587a17e0b40a806ab54e1c1c7fb6"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3689d7f1b8b1275505719ce835ae305b"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_dcfa25571dd65d8015df58c6d2b30d3f"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_fd9fdc0a5873184e4429a49cfcf62e78"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_14d3e8ef0f435615de86cada3d4276a9"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r15635212146318082833808329379",
+					"recomTag": {
+						"desc": "看了又看",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_64d0a2f7d6e2d6112db43cebf704394c"
+				}, {
+					"houseCode": "19060718610100127471",
+					"title": "春天花园 2室1厅 北",
+					"desc": "长安 长安 | 72.6㎡ | 低楼层 共28层",
+					"priceStr": "76",
+					"priceUnit": "万",
+					"unitPriceStr": "10,464元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/2d80231d-c53e-458c-8214-3e329b46490f.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_3b7a54a250138fa1cc69142056b5cb7a"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_d04306ce216c2bb665a3543bab0ff2ab"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_34636a7a0ec1a27d0eb39f750997e867"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_c4bcb79450c386d47b79cc4ff16a6928"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r156352121463180828338083293710",
+					"recomTag": {
+						"desc": "户型相似",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_3362fdc05be759916906ac479a5db476"
+				}, {
+					"houseCode": "19061218610100102765",
+					"title": "中登家园 2室2厅 东南",
+					"desc": "未央 经开 | 97.7㎡ | 中楼层 共29层",
+					"priceStr": "115",
+					"priceUnit": "万",
+					"unitPriceStr": "11,774元\/平",
+					"coverPic": "http:\/\/ke-image.ljcdn.com\/610100-inspection\/prod-7fa729aa-ef1a-49db-bc2a-a1c45dc05f7a.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com",
+					"colorTags": [{
+						"desc": "VR房源",
+						"color": "849AAE",
+						"boldFont": 0,
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_ceb6cb8aad8bfb55652f2d8d117e70ba"
+					}],
+					"cardType": "house",
+					"strategyId": "default",
+					"negFeedBack": [{
+						"fbKey": "10001#unit_price",
+						"fbTitle": "价格不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_list\/images\/1556084679855.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_74b36d7062884282c77a898315a91d4b"
+					}, {
+						"fbKey": "10002#bizcircle_id",
+						"fbTitle": "位置不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084693658.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_8422e9d4e87fe458babfe184b79bbd7e"
+					}, {
+						"fbKey": "10003#house_area",
+						"fbTitle": "面积不合适",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084708712.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_dab2bdd2ab8ee8bd68b03a7ef472c5e8"
+					}, {
+						"fbKey": "10004#unknown",
+						"fbTitle": "其他不喜欢",
+						"fbIconUrl": "https:\/\/img.ljcdn.com\/beike\/ershou_detail\/images\/1556084700024.png",
+						"eleid": "010A1A640FFC6720096C01BE6C115A57_d84509f0ab1012510220e04a4d4a1b33"
+					}],
+					"negFeedBackType": "ershou_house",
+					"fbExpoId": "r156352121463180828338083293711",
+					"recomTag": {
+						"desc": "看了又看",
+						"color": "FFFFFF",
+						"bgColor": "152448",
+						"boldFont": 0
+					},
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_72e08f843869ae4d640adfc62bf26202"
+				}]
+			},
+			"newHouse": {
+				"name": "推荐新房",
+				"actionUrl": "lianjiabeike:\/\/newhouse\/liebiao",
+				"moreDesc": "更多新房",
+				"list": [{
+					"projectName": "ldxshckabhqw",
+					"title": "绿地香树花城",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "3811057377717",
+					"areaRange": "建面96-1036㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/62d17cf8-a845-488b-9d44-bc47de529369.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "9300元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=ldxshckabhqw",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_c6242fa6826f7b5807a8069579e40811"
+				}, {
+					"projectName": "wjtxaborh",
+					"title": "文景天下",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "3820028209688376",
+					"areaRange": "建面750-750㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/7c5fcc19-d6ea-4f12-80d5-5cbf4039b730.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "12500元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=wjtxaborh",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_4b0bec0cc332f94a59aa3b3689afd0fa"
+				}, {
+					"projectName": "slgjaalil",
+					"title": "圣朗国际",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "387145477648962",
+					"areaRange": "建面78-1200㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/42f333b1-3200-4f83-9c0a-a9ec480bab61.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "13000元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=slgjaalil",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_8048d3ed726c75aa561bfcc8f8bf29b8"
+				}, {
+					"projectName": "xbwhpfzxabmmi",
+					"title": "西部网货批发中心",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "3820021358648837",
+					"areaRange": "建面30-105㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/ff5f7035-6e6a-4415-a712-bc721b560e99.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "28000元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=xbwhpfzxabmmi",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_197675a931f1504ca57b8cae974874c8"
+				}, {
+					"projectName": "hxmkcaalxt",
+					"title": "红星美凯城",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "387442983826230",
+					"areaRange": "建面80-153㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/598f3ed3-f2a5-4c20-adc6-91b059266db4.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "12000元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=hxmkcaalxt",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_25520d11f7264c17d27c94de5f74f23a"
+				}, {
+					"projectName": "cgshwaannf",
+					"title": "辰宫双河湾",
+					"districtName": "未央",
+					"bizcircleName": "经开",
+					"buildId": "3811057520817",
+					"areaRange": "建面106-304㎡",
+					"coverPic": "http:\/\/image1.ljcdn.com\/hdic-resblock\/495493df-9a59-4922-b8c6-19235486caec.jpg.280x210.jpg?from=ke.com",
+					"averagePrice": "8980元\/平",
+					"saleStatus": "在售",
+					"saleStatusColor": "5F94FF",
+					"processStatus": "3",
+					"schema": "lianjiabeike:\/\/newhouse\/detail?project_name=cgshwaannf",
+					"eleid": "010A1A640FFC6720096C01BE6C115A57_b8d90220d30d3bf75fb7bc38dce8c811"
+				}]
+			},
+			"name": "猜你喜欢",
+			"orderList": ["house", "newHouse", "community"]
+		},
+		"switch": {
+			"yezhuActionUrl": "lianjiabeike:\/\/sell\/house\/homepage\/v3?city_id=610100&source=ershou_detail_button"
+		},
+		"decorationSubscribeInfo": {
+			"subscribeButtonText": "订阅装修信息和优惠",
+			"subsctibeStatus": false
+		},
+		"nav": [{
+			"name": "小区",
+			"key": "resblock_anchor",
+			"eleid": "010A1A640FFC6720096C01BE6C115A57_3ba473e73f3de3c42042460d21408c19"
+		}, {
+			"name": "推荐",
+			"key": "recommend",
+			"eleid": "010A1A640FFC6720096C01BE6C115A57_e9ee9d65507fb657a2f4cd3cbb7c50dc"
+		}]
+	},
+	"cost": 725
+}

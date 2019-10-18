@@ -1,0 +1,847 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4516730222E7DCA40000D52A /* DWSearchViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4516730122E7DCA40000D52A /* DWSearchViewCell.m */; };
+		4529081222E806F700B844F4 /* DWSearchResultEmptyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4529081122E806F700B844F4 /* DWSearchResultEmptyCell.m */; };
+		453B9AAC22E752CB00102078 /* DWSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 453B9AAB22E752CB00102078 /* DWSearchViewController.m */; };
+		453BE41922E756A000B0F3C2 /* DWItemPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 453BE41822E756A000B0F3C2 /* DWItemPickerView.m */; };
+		458014C922E7F6A200C6F1E4 /* DWSearchHistoryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458014C822E7F6A200C6F1E4 /* DWSearchHistoryView.m */; };
+		4597250D22E74D68009E42BE /* DWHomeNaviTitleBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4597250C22E74D68009E42BE /* DWHomeNaviTitleBarView.m */; };
+		45D369FF22E807B400ACE9C9 /* DWSearchResultCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D369FE22E807B300ACE9C9 /* DWSearchResultCell.m */; };
+		45D9A3EF22E69D0A005BC941 /* DWUsedInteractiveView.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D9A3EE22E69D0A005BC941 /* DWUsedInteractiveView.m */; };
+		5B83DBABBA974C6B8D7FBDAF /* libPods-Dwell.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D7CD1527842DF00182189F8 /* libPods-Dwell.a */; };
+		BF46517A22E2976B00685DDC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF46517922E2976B00685DDC /* AppDelegate.m */; };
+		BF46518222E2976C00685DDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF46518122E2976C00685DDC /* Assets.xcassets */; };
+		BF46518822E2976C00685DDC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF46518722E2976C00685DDC /* main.m */; };
+		BF46519222E2976C00685DDC /* DwellTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BF46519122E2976C00685DDC /* DwellTests.m */; };
+		BF4651A022E2A7D100685DDC /* DWMainTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF46519F22E2A7D100685DDC /* DWMainTabBarViewController.m */; };
+		BF4651AA22E2ABBC00685DDC /* DWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4651A922E2ABBC00685DDC /* DWViewController.m */; };
+		BF4651B022E2AC0B00685DDC /* DWNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4651AF22E2AC0B00685DDC /* DWNewsViewController.m */; };
+		BF4651B322E2AC1600685DDC /* DWMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4651B222E2AC1600685DDC /* DWMeViewController.m */; };
+		BF4651BA22E2B49000685DDC /* FixedComponentDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4651B922E2B49000685DDC /* FixedComponentDataSource.m */; };
+		BF4CB3A522E4B0B500BD2B24 /* DWHouseBigTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4CB3A422E4B0B500BD2B24 /* DWHouseBigTableViewCell.m */; };
+		BF623C8022E34F5D00EFB78B /* DWImagePromotionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BF623C7F22E34F5D00EFB78B /* DWImagePromotionViewCell.m */; };
+		BF623C8922E4944300EFB78B /* DWHouseContentHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = BF623C8822E4944300EFB78B /* DWHouseContentHeaderView.m */; };
+		BF6320D922E32A8600A365E1 /* DWRichContentItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = BF6320D822E32A8600A365E1 /* DWRichContentItemView.m */; };
+		BF6320DC22E32ECA00A365E1 /* DWRichContentItemData.m in Sources */ = {isa = PBXBuildFile; fileRef = BF6320DB22E32ECA00A365E1 /* DWRichContentItemData.m */; };
+		BF6320DF22E331C200A365E1 /* DWHomeReusedHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = BF6320DE22E331C200A365E1 /* DWHomeReusedHeaderView.m */; };
+		BF6FB11C22E2E2CA0036AF89 /* DWShortcutEntryViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BF6FB11B22E2E2CA0036AF89 /* DWShortcutEntryViewCell.m */; };
+		BF7935CB22E2C35900101928 /* DWHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7935CA22E2C35900101928 /* DWHomeViewController.m */; };
+		BF7935D022E2C49A00101928 /* DWMenuItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7935CF22E2C49A00101928 /* DWMenuItemTableViewCell.m */; };
+		BF7935D422E2C50800101928 /* DWItemCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7935D322E2C50800101928 /* DWItemCollectionViewCell.m */; };
+		BF7935DA22E2EF0D00101928 /* DWWebKitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7935D922E2EF0D00101928 /* DWWebKitViewController.m */; };
+		BF8CA04F22E4C00100E19238 /* UIButton+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8CA04E22E4C00100E19238 /* UIButton+Utils.m */; };
+		BF8CA05322E54A3000E19238 /* DWResponseInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8CA05222E54A3000E19238 /* DWResponseInfo.m */; };
+		BF8CA05622E550B000E19238 /* DWDisplayModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8CA05522E550B000E19238 /* DWDisplayModel.m */; };
+		BF8CA05C22E56C0E00E19238 /* DWAPIInvoker.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8CA05B22E56C0E00E19238 /* DWAPIInvoker.m */; };
+		BFAD713122E34418009634B6 /* DWHotTopicViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFAD713022E34418009634B6 /* DWHotTopicViewCell.m */; };
+		BFB826B922E52FC4005300F5 /* DWImageNewsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB826B822E52FC4005300F5 /* DWImageNewsTableViewCell.m */; };
+		BFD8D30722E4B0E20061C1D4 /* DWHouseItemContentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD8D30622E4B0E20061C1D4 /* DWHouseItemContentCell.m */; };
+		BFE3F15B22E58DF700EAC0D5 /* DWUIComponentFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE3F15A22E58DF700EAC0D5 /* DWUIComponentFactory.m */; };
+		BFE3F15F22E58EAF00EAC0D5 /* UIColor+Dwell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE3F15E22E58EAF00EAC0D5 /* UIColor+Dwell.m */; };
+		BFED3CAC22E248BA003050E6 /* UIView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BFED3CAB22E248BA003050E6 /* UIView+Utils.m */; };
+		BFED3CAF22E249EB003050E6 /* UIImageView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BFED3CAE22E249EB003050E6 /* UIImageView+Utils.m */; };
+		BFED3CB222E24D1C003050E6 /* UIImage+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BFED3CB122E24D1C003050E6 /* UIImage+Utils.m */; };
+		BFED3CB822E307D0003050E6 /* DWSquareBannerViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFED3CB722E307D0003050E6 /* DWSquareBannerViewCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BF46518E22E2976C00685DDC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BF46516D22E2976B00685DDC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BF46517422E2976B00685DDC;
+			remoteInfo = Dwell;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07389333D1DA1391FF8FDB3B /* Pods-Dwell.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dwell.release.xcconfig"; path = "Target Support Files/Pods-Dwell/Pods-Dwell.release.xcconfig"; sourceTree = "<group>"; };
+		1D7CD1527842DF00182189F8 /* libPods-Dwell.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Dwell.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4516730022E7DCA40000D52A /* DWSearchViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWSearchViewCell.h; sourceTree = "<group>"; };
+		4516730122E7DCA40000D52A /* DWSearchViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSearchViewCell.m; sourceTree = "<group>"; };
+		4529081022E806F700B844F4 /* DWSearchResultEmptyCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWSearchResultEmptyCell.h; sourceTree = "<group>"; };
+		4529081122E806F700B844F4 /* DWSearchResultEmptyCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSearchResultEmptyCell.m; sourceTree = "<group>"; };
+		453B9AAA22E752CB00102078 /* DWSearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DWSearchViewController.h; path = Dwell/Home/Controller/DWSearchViewController.h; sourceTree = SOURCE_ROOT; };
+		453B9AAB22E752CB00102078 /* DWSearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DWSearchViewController.m; path = Dwell/Home/Controller/DWSearchViewController.m; sourceTree = SOURCE_ROOT; };
+		453BE41722E756A000B0F3C2 /* DWItemPickerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWItemPickerView.h; sourceTree = "<group>"; };
+		453BE41822E756A000B0F3C2 /* DWItemPickerView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWItemPickerView.m; sourceTree = "<group>"; };
+		458014C722E7F6A200C6F1E4 /* DWSearchHistoryView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWSearchHistoryView.h; sourceTree = "<group>"; };
+		458014C822E7F6A200C6F1E4 /* DWSearchHistoryView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSearchHistoryView.m; sourceTree = "<group>"; };
+		4597250B22E74D68009E42BE /* DWHomeNaviTitleBarView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHomeNaviTitleBarView.h; sourceTree = "<group>"; };
+		4597250C22E74D68009E42BE /* DWHomeNaviTitleBarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHomeNaviTitleBarView.m; sourceTree = "<group>"; };
+		45D369FD22E807B300ACE9C9 /* DWSearchResultCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWSearchResultCell.h; sourceTree = "<group>"; };
+		45D369FE22E807B300ACE9C9 /* DWSearchResultCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSearchResultCell.m; sourceTree = "<group>"; };
+		45D9A3ED22E69D0A005BC941 /* DWUsedInteractiveView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWUsedInteractiveView.h; sourceTree = "<group>"; };
+		45D9A3EE22E69D0A005BC941 /* DWUsedInteractiveView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWUsedInteractiveView.m; sourceTree = "<group>"; };
+		673476FB4330F4AD127583DA /* Pods-Dwell.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dwell.debug.xcconfig"; path = "Target Support Files/Pods-Dwell/Pods-Dwell.debug.xcconfig"; sourceTree = "<group>"; };
+		BF46517522E2976B00685DDC /* Dwell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dwell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF46517822E2976B00685DDC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BF46517922E2976B00685DDC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BF46518122E2976C00685DDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BF46518622E2976C00685DDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF46518722E2976C00685DDC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BF46518D22E2976C00685DDC /* DwellTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DwellTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF46519122E2976C00685DDC /* DwellTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DwellTests.m; sourceTree = "<group>"; };
+		BF46519322E2976C00685DDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF46519E22E2A7D100685DDC /* DWMainTabBarViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWMainTabBarViewController.h; sourceTree = "<group>"; };
+		BF46519F22E2A7D100685DDC /* DWMainTabBarViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWMainTabBarViewController.m; sourceTree = "<group>"; };
+		BF4651A822E2ABBC00685DDC /* DWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWViewController.h; sourceTree = "<group>"; };
+		BF4651A922E2ABBC00685DDC /* DWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWViewController.m; sourceTree = "<group>"; };
+		BF4651AE22E2AC0B00685DDC /* DWNewsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWNewsViewController.h; sourceTree = "<group>"; };
+		BF4651AF22E2AC0B00685DDC /* DWNewsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWNewsViewController.m; sourceTree = "<group>"; };
+		BF4651B122E2AC1600685DDC /* DWMeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWMeViewController.h; sourceTree = "<group>"; };
+		BF4651B222E2AC1600685DDC /* DWMeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWMeViewController.m; sourceTree = "<group>"; };
+		BF4651B822E2B49000685DDC /* FixedComponentDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FixedComponentDataSource.h; sourceTree = "<group>"; };
+		BF4651B922E2B49000685DDC /* FixedComponentDataSource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FixedComponentDataSource.m; sourceTree = "<group>"; };
+		BF4CB3A322E4B0B500BD2B24 /* DWHouseBigTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHouseBigTableViewCell.h; sourceTree = "<group>"; };
+		BF4CB3A422E4B0B500BD2B24 /* DWHouseBigTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHouseBigTableViewCell.m; sourceTree = "<group>"; };
+		BF623C7E22E34F5D00EFB78B /* DWImagePromotionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWImagePromotionViewCell.h; sourceTree = "<group>"; };
+		BF623C7F22E34F5D00EFB78B /* DWImagePromotionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWImagePromotionViewCell.m; sourceTree = "<group>"; };
+		BF623C8722E4944300EFB78B /* DWHouseContentHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHouseContentHeaderView.h; sourceTree = "<group>"; };
+		BF623C8822E4944300EFB78B /* DWHouseContentHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHouseContentHeaderView.m; sourceTree = "<group>"; };
+		BF6320D722E32A8600A365E1 /* DWRichContentItemView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWRichContentItemView.h; sourceTree = "<group>"; };
+		BF6320D822E32A8600A365E1 /* DWRichContentItemView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWRichContentItemView.m; sourceTree = "<group>"; };
+		BF6320DA22E32ECA00A365E1 /* DWRichContentItemData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWRichContentItemData.h; sourceTree = "<group>"; };
+		BF6320DB22E32ECA00A365E1 /* DWRichContentItemData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWRichContentItemData.m; sourceTree = "<group>"; };
+		BF6320DD22E331C200A365E1 /* DWHomeReusedHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHomeReusedHeaderView.h; sourceTree = "<group>"; };
+		BF6320DE22E331C200A365E1 /* DWHomeReusedHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHomeReusedHeaderView.m; sourceTree = "<group>"; };
+		BF6FB11A22E2E2CA0036AF89 /* DWShortcutEntryViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWShortcutEntryViewCell.h; sourceTree = "<group>"; };
+		BF6FB11B22E2E2CA0036AF89 /* DWShortcutEntryViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWShortcutEntryViewCell.m; sourceTree = "<group>"; };
+		BF7935C622E2B3C800101928 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		BF7935C922E2C35900101928 /* DWHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DWHomeViewController.h; path = Dwell/Home/Controller/DWHomeViewController.h; sourceTree = SOURCE_ROOT; };
+		BF7935CA22E2C35900101928 /* DWHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DWHomeViewController.m; path = Dwell/Home/Controller/DWHomeViewController.m; sourceTree = SOURCE_ROOT; };
+		BF7935CE22E2C49A00101928 /* DWMenuItemTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWMenuItemTableViewCell.h; sourceTree = "<group>"; };
+		BF7935CF22E2C49A00101928 /* DWMenuItemTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWMenuItemTableViewCell.m; sourceTree = "<group>"; };
+		BF7935D222E2C50800101928 /* DWItemCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWItemCollectionViewCell.h; sourceTree = "<group>"; };
+		BF7935D322E2C50800101928 /* DWItemCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWItemCollectionViewCell.m; sourceTree = "<group>"; };
+		BF7935D822E2EF0D00101928 /* DWWebKitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWWebKitViewController.h; sourceTree = "<group>"; };
+		BF7935D922E2EF0D00101928 /* DWWebKitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWWebKitViewController.m; sourceTree = "<group>"; };
+		BF8CA04D22E4C00100E19238 /* UIButton+Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+Utils.h"; sourceTree = "<group>"; };
+		BF8CA04E22E4C00100E19238 /* UIButton+Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Utils.m"; sourceTree = "<group>"; };
+		BF8CA05122E54A3000E19238 /* DWResponseInfo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWResponseInfo.h; sourceTree = "<group>"; };
+		BF8CA05222E54A3000E19238 /* DWResponseInfo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWResponseInfo.m; sourceTree = "<group>"; };
+		BF8CA05422E550B000E19238 /* DWDisplayModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWDisplayModel.h; sourceTree = "<group>"; };
+		BF8CA05522E550B000E19238 /* DWDisplayModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWDisplayModel.m; sourceTree = "<group>"; };
+		BF8CA05A22E56C0E00E19238 /* DWAPIInvoker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWAPIInvoker.h; sourceTree = "<group>"; };
+		BF8CA05B22E56C0E00E19238 /* DWAPIInvoker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWAPIInvoker.m; sourceTree = "<group>"; };
+		BFAD712F22E34418009634B6 /* DWHotTopicViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHotTopicViewCell.h; sourceTree = "<group>"; };
+		BFAD713022E34418009634B6 /* DWHotTopicViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHotTopicViewCell.m; sourceTree = "<group>"; };
+		BFB826B722E52FC4005300F5 /* DWImageNewsTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWImageNewsTableViewCell.h; sourceTree = "<group>"; };
+		BFB826B822E52FC4005300F5 /* DWImageNewsTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWImageNewsTableViewCell.m; sourceTree = "<group>"; };
+		BFD8D30522E4B0E20061C1D4 /* DWHouseItemContentCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWHouseItemContentCell.h; sourceTree = "<group>"; };
+		BFD8D30622E4B0E20061C1D4 /* DWHouseItemContentCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWHouseItemContentCell.m; sourceTree = "<group>"; };
+		BFE3F15922E58DF700EAC0D5 /* DWUIComponentFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWUIComponentFactory.h; sourceTree = "<group>"; };
+		BFE3F15A22E58DF700EAC0D5 /* DWUIComponentFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWUIComponentFactory.m; sourceTree = "<group>"; };
+		BFE3F15D22E58EAF00EAC0D5 /* UIColor+Dwell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIColor+Dwell.h"; sourceTree = "<group>"; };
+		BFE3F15E22E58EAF00EAC0D5 /* UIColor+Dwell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Dwell.m"; sourceTree = "<group>"; };
+		BFED3CAA22E248BA003050E6 /* UIView+Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Utils.h"; sourceTree = "<group>"; };
+		BFED3CAB22E248BA003050E6 /* UIView+Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Utils.m"; sourceTree = "<group>"; };
+		BFED3CAD22E249EB003050E6 /* UIImageView+Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Utils.h"; sourceTree = "<group>"; };
+		BFED3CAE22E249EB003050E6 /* UIImageView+Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Utils.m"; sourceTree = "<group>"; };
+		BFED3CB022E24D1C003050E6 /* UIImage+Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Utils.h"; sourceTree = "<group>"; };
+		BFED3CB122E24D1C003050E6 /* UIImage+Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Utils.m"; sourceTree = "<group>"; };
+		BFED3CB622E307D0003050E6 /* DWSquareBannerViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWSquareBannerViewCell.h; sourceTree = "<group>"; };
+		BFED3CB722E307D0003050E6 /* DWSquareBannerViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSquareBannerViewCell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BF46517222E2976B00685DDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5B83DBABBA974C6B8D7FBDAF /* libPods-Dwell.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF46518A22E2976C00685DDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		451672FE22E7DA620000D52A /* HomeController */ = {
+			isa = PBXGroup;
+			children = (
+				BF7935D122E2C4C500101928 /* SubView */,
+				BF7935CE22E2C49A00101928 /* DWMenuItemTableViewCell.h */,
+				BF7935CF22E2C49A00101928 /* DWMenuItemTableViewCell.m */,
+				BF6FB11A22E2E2CA0036AF89 /* DWShortcutEntryViewCell.h */,
+				BF6FB11B22E2E2CA0036AF89 /* DWShortcutEntryViewCell.m */,
+				BFED3CB622E307D0003050E6 /* DWSquareBannerViewCell.h */,
+				BFED3CB722E307D0003050E6 /* DWSquareBannerViewCell.m */,
+				BFAD712F22E34418009634B6 /* DWHotTopicViewCell.h */,
+				BFAD713022E34418009634B6 /* DWHotTopicViewCell.m */,
+				BFB826B722E52FC4005300F5 /* DWImageNewsTableViewCell.h */,
+				BFB826B822E52FC4005300F5 /* DWImageNewsTableViewCell.m */,
+				BF623C7E22E34F5D00EFB78B /* DWImagePromotionViewCell.h */,
+				BF623C7F22E34F5D00EFB78B /* DWImagePromotionViewCell.m */,
+				BF4CB3A322E4B0B500BD2B24 /* DWHouseBigTableViewCell.h */,
+				BF4CB3A422E4B0B500BD2B24 /* DWHouseBigTableViewCell.m */,
+				45D9A3ED22E69D0A005BC941 /* DWUsedInteractiveView.h */,
+				45D9A3EE22E69D0A005BC941 /* DWUsedInteractiveView.m */,
+			);
+			path = HomeController;
+			sourceTree = "<group>";
+		};
+		451672FF22E7DB1A0000D52A /* SearchViewController */ = {
+			isa = PBXGroup;
+			children = (
+				4597250E22E74D73009E42BE /* NaviTitleViews */,
+				4516730022E7DCA40000D52A /* DWSearchViewCell.h */,
+				4516730122E7DCA40000D52A /* DWSearchViewCell.m */,
+				458014C722E7F6A200C6F1E4 /* DWSearchHistoryView.h */,
+				458014C822E7F6A200C6F1E4 /* DWSearchHistoryView.m */,
+				4529081022E806F700B844F4 /* DWSearchResultEmptyCell.h */,
+				4529081122E806F700B844F4 /* DWSearchResultEmptyCell.m */,
+				45D369FD22E807B300ACE9C9 /* DWSearchResultCell.h */,
+				45D369FE22E807B300ACE9C9 /* DWSearchResultCell.m */,
+			);
+			path = SearchViewController;
+			sourceTree = "<group>";
+		};
+		4597250E22E74D73009E42BE /* NaviTitleViews */ = {
+			isa = PBXGroup;
+			children = (
+				4597250B22E74D68009E42BE /* DWHomeNaviTitleBarView.h */,
+				4597250C22E74D68009E42BE /* DWHomeNaviTitleBarView.m */,
+				453BE41722E756A000B0F3C2 /* DWItemPickerView.h */,
+				453BE41822E756A000B0F3C2 /* DWItemPickerView.m */,
+			);
+			path = NaviTitleViews;
+			sourceTree = "<group>";
+		};
+		49E1E57BCC1DC26016453D25 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				673476FB4330F4AD127583DA /* Pods-Dwell.debug.xcconfig */,
+				07389333D1DA1391FF8FDB3B /* Pods-Dwell.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		BF46516C22E2976B00685DDC = {
+			isa = PBXGroup;
+			children = (
+				BF46517722E2976B00685DDC /* Dwell */,
+				BF46519022E2976C00685DDC /* DwellTests */,
+				BF46517622E2976B00685DDC /* Products */,
+				49E1E57BCC1DC26016453D25 /* Pods */,
+				EC58ACA0E1A418B8E3BB2AEA /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		BF46517622E2976B00685DDC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BF46517522E2976B00685DDC /* Dwell.app */,
+				BF46518D22E2976C00685DDC /* DwellTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BF46517722E2976B00685DDC /* Dwell */ = {
+			isa = PBXGroup;
+			children = (
+				BF4651A322E2A90500685DDC /* Home */,
+				BF4651A222E2A8FE00685DDC /* News */,
+				BF4651A122E2A8F500685DDC /* Me */,
+				BF46519D22E2A78900685DDC /* Utils */,
+				BF46519C22E2985B00685DDC /* Supporting-Files */,
+			);
+			path = Dwell;
+			sourceTree = "<group>";
+		};
+		BF46519022E2976C00685DDC /* DwellTests */ = {
+			isa = PBXGroup;
+			children = (
+				BF46519122E2976C00685DDC /* DwellTests.m */,
+				BF46519322E2976C00685DDC /* Info.plist */,
+			);
+			path = DwellTests;
+			sourceTree = "<group>";
+		};
+		BF46519C22E2985B00685DDC /* Supporting-Files */ = {
+			isa = PBXGroup;
+			children = (
+				BF46517822E2976B00685DDC /* AppDelegate.h */,
+				BF46517922E2976B00685DDC /* AppDelegate.m */,
+				BF46518122E2976C00685DDC /* Assets.xcassets */,
+				BF46518622E2976C00685DDC /* Info.plist */,
+				BF46518722E2976C00685DDC /* main.m */,
+				BF7935C622E2B3C800101928 /* PrefixHeader.pch */,
+			);
+			path = "Supporting-Files";
+			sourceTree = "<group>";
+		};
+		BF46519D22E2A78900685DDC /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				BF8CA05022E54A1100E19238 /* APIs */,
+				BFE3F15C22E58E6F00EAC0D5 /* Categories */,
+				BF4651A422E2A9E300685DDC /* UIComponent */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		BF4651A122E2A8F500685DDC /* Me */ = {
+			isa = PBXGroup;
+			children = (
+				BF4651B122E2AC1600685DDC /* DWMeViewController.h */,
+				BF4651B222E2AC1600685DDC /* DWMeViewController.m */,
+			);
+			path = Me;
+			sourceTree = "<group>";
+		};
+		BF4651A222E2A8FE00685DDC /* News */ = {
+			isa = PBXGroup;
+			children = (
+				BF4651AE22E2AC0B00685DDC /* DWNewsViewController.h */,
+				BF4651AF22E2AC0B00685DDC /* DWNewsViewController.m */,
+			);
+			path = News;
+			sourceTree = "<group>";
+		};
+		BF4651A322E2A90500685DDC /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				BF7935CD22E2C38600101928 /* View */,
+				BF7935CC22E2C37C00101928 /* Model */,
+				BF7935C822E2C33900101928 /* Controller */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		BF4651A422E2A9E300685DDC /* UIComponent */ = {
+			isa = PBXGroup;
+			children = (
+				BF46519E22E2A7D100685DDC /* DWMainTabBarViewController.h */,
+				BF46519F22E2A7D100685DDC /* DWMainTabBarViewController.m */,
+				BF4651A822E2ABBC00685DDC /* DWViewController.h */,
+				BF4651A922E2ABBC00685DDC /* DWViewController.m */,
+				BF4651B822E2B49000685DDC /* FixedComponentDataSource.h */,
+				BF4651B922E2B49000685DDC /* FixedComponentDataSource.m */,
+				BF7935D822E2EF0D00101928 /* DWWebKitViewController.h */,
+				BF7935D922E2EF0D00101928 /* DWWebKitViewController.m */,
+				BFE3F15922E58DF700EAC0D5 /* DWUIComponentFactory.h */,
+				BFE3F15A22E58DF700EAC0D5 /* DWUIComponentFactory.m */,
+			);
+			path = UIComponent;
+			sourceTree = "<group>";
+		};
+		BF7935C822E2C33900101928 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BF7935C922E2C35900101928 /* DWHomeViewController.h */,
+				BF7935CA22E2C35900101928 /* DWHomeViewController.m */,
+				453B9AAA22E752CB00102078 /* DWSearchViewController.h */,
+				453B9AAB22E752CB00102078 /* DWSearchViewController.m */,
+			);
+			name = Controller;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		BF7935CC22E2C37C00101928 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BF6320DA22E32ECA00A365E1 /* DWRichContentItemData.h */,
+				BF6320DB22E32ECA00A365E1 /* DWRichContentItemData.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BF7935CD22E2C38600101928 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				451672FF22E7DB1A0000D52A /* SearchViewController */,
+				451672FE22E7DA620000D52A /* HomeController */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BF7935D122E2C4C500101928 /* SubView */ = {
+			isa = PBXGroup;
+			children = (
+				BF7935D222E2C50800101928 /* DWItemCollectionViewCell.h */,
+				BF7935D322E2C50800101928 /* DWItemCollectionViewCell.m */,
+				BF6320D722E32A8600A365E1 /* DWRichContentItemView.h */,
+				BF6320D822E32A8600A365E1 /* DWRichContentItemView.m */,
+				BF6320DD22E331C200A365E1 /* DWHomeReusedHeaderView.h */,
+				BF6320DE22E331C200A365E1 /* DWHomeReusedHeaderView.m */,
+				BF623C8722E4944300EFB78B /* DWHouseContentHeaderView.h */,
+				BF623C8822E4944300EFB78B /* DWHouseContentHeaderView.m */,
+				BFD8D30522E4B0E20061C1D4 /* DWHouseItemContentCell.h */,
+				BFD8D30622E4B0E20061C1D4 /* DWHouseItemContentCell.m */,
+			);
+			path = SubView;
+			sourceTree = "<group>";
+		};
+		BF8CA05022E54A1100E19238 /* APIs */ = {
+			isa = PBXGroup;
+			children = (
+				BF8CA05122E54A3000E19238 /* DWResponseInfo.h */,
+				BF8CA05222E54A3000E19238 /* DWResponseInfo.m */,
+				BF8CA05422E550B000E19238 /* DWDisplayModel.h */,
+				BF8CA05522E550B000E19238 /* DWDisplayModel.m */,
+				BF8CA05A22E56C0E00E19238 /* DWAPIInvoker.h */,
+				BF8CA05B22E56C0E00E19238 /* DWAPIInvoker.m */,
+			);
+			path = APIs;
+			sourceTree = "<group>";
+		};
+		BFE3F15C22E58E6F00EAC0D5 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				BFE3F15D22E58EAF00EAC0D5 /* UIColor+Dwell.h */,
+				BFE3F15E22E58EAF00EAC0D5 /* UIColor+Dwell.m */,
+				BFED3CAA22E248BA003050E6 /* UIView+Utils.h */,
+				BFED3CAB22E248BA003050E6 /* UIView+Utils.m */,
+				BFED3CAD22E249EB003050E6 /* UIImageView+Utils.h */,
+				BFED3CAE22E249EB003050E6 /* UIImageView+Utils.m */,
+				BFED3CB022E24D1C003050E6 /* UIImage+Utils.h */,
+				BFED3CB122E24D1C003050E6 /* UIImage+Utils.m */,
+				BF8CA04D22E4C00100E19238 /* UIButton+Utils.h */,
+				BF8CA04E22E4C00100E19238 /* UIButton+Utils.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		EC58ACA0E1A418B8E3BB2AEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D7CD1527842DF00182189F8 /* libPods-Dwell.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BF46517422E2976B00685DDC /* Dwell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF46519622E2976C00685DDC /* Build configuration list for PBXNativeTarget "Dwell" */;
+			buildPhases = (
+				F1D9B9783ED65BB968CA8B10 /* [CP] Check Pods Manifest.lock */,
+				BF46517122E2976B00685DDC /* Sources */,
+				BF46517222E2976B00685DDC /* Frameworks */,
+				BF46517322E2976B00685DDC /* Resources */,
+				3EAA80B07219583B499A4ED6 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Dwell;
+			productName = Dwell;
+			productReference = BF46517522E2976B00685DDC /* Dwell.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BF46518C22E2976C00685DDC /* DwellTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF46519922E2976C00685DDC /* Build configuration list for PBXNativeTarget "DwellTests" */;
+			buildPhases = (
+				BF46518922E2976C00685DDC /* Sources */,
+				BF46518A22E2976C00685DDC /* Frameworks */,
+				BF46518B22E2976C00685DDC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BF46518F22E2976C00685DDC /* PBXTargetDependency */,
+			);
+			name = DwellTests;
+			productName = DwellTests;
+			productReference = BF46518D22E2976C00685DDC /* DwellTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BF46516D22E2976B00685DDC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = toureek.it;
+				TargetAttributes = {
+					BF46517422E2976B00685DDC = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+					BF46518C22E2976C00685DDC = {
+						CreatedOnToolsVersion = 9.4.1;
+						TestTargetID = BF46517422E2976B00685DDC;
+					};
+				};
+			};
+			buildConfigurationList = BF46517022E2976B00685DDC /* Build configuration list for PBXProject "Dwell" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BF46516C22E2976B00685DDC;
+			productRefGroup = BF46517622E2976B00685DDC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF46517422E2976B00685DDC /* Dwell */,
+				BF46518C22E2976C00685DDC /* DwellTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BF46517322E2976B00685DDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF46518222E2976C00685DDC /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF46518B22E2976C00685DDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3EAA80B07219583B499A4ED6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dwell/Pods-Dwell-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dwell/Pods-Dwell-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Dwell/Pods-Dwell-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F1D9B9783ED65BB968CA8B10 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Dwell-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BF46517122E2976B00685DDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFE3F15F22E58EAF00EAC0D5 /* UIColor+Dwell.m in Sources */,
+				BFE3F15B22E58DF700EAC0D5 /* DWUIComponentFactory.m in Sources */,
+				BFD8D30722E4B0E20061C1D4 /* DWHouseItemContentCell.m in Sources */,
+				BFED3CB822E307D0003050E6 /* DWSquareBannerViewCell.m in Sources */,
+				BF8CA05C22E56C0E00E19238 /* DWAPIInvoker.m in Sources */,
+				BF7935D022E2C49A00101928 /* DWMenuItemTableViewCell.m in Sources */,
+				45D369FF22E807B400ACE9C9 /* DWSearchResultCell.m in Sources */,
+				BF6320D922E32A8600A365E1 /* DWRichContentItemView.m in Sources */,
+				4529081222E806F700B844F4 /* DWSearchResultEmptyCell.m in Sources */,
+				BF623C8022E34F5D00EFB78B /* DWImagePromotionViewCell.m in Sources */,
+				4597250D22E74D68009E42BE /* DWHomeNaviTitleBarView.m in Sources */,
+				BFED3CAC22E248BA003050E6 /* UIView+Utils.m in Sources */,
+				BF6320DF22E331C200A365E1 /* DWHomeReusedHeaderView.m in Sources */,
+				BF46518822E2976C00685DDC /* main.m in Sources */,
+				BF4651A022E2A7D100685DDC /* DWMainTabBarViewController.m in Sources */,
+				BFAD713122E34418009634B6 /* DWHotTopicViewCell.m in Sources */,
+				BFED3CAF22E249EB003050E6 /* UIImageView+Utils.m in Sources */,
+				BF8CA04F22E4C00100E19238 /* UIButton+Utils.m in Sources */,
+				BFED3CB222E24D1C003050E6 /* UIImage+Utils.m in Sources */,
+				4516730222E7DCA40000D52A /* DWSearchViewCell.m in Sources */,
+				BF4651B322E2AC1600685DDC /* DWMeViewController.m in Sources */,
+				BF6FB11C22E2E2CA0036AF89 /* DWShortcutEntryViewCell.m in Sources */,
+				BF4651BA22E2B49000685DDC /* FixedComponentDataSource.m in Sources */,
+				BF7935CB22E2C35900101928 /* DWHomeViewController.m in Sources */,
+				BF4651AA22E2ABBC00685DDC /* DWViewController.m in Sources */,
+				BF6320DC22E32ECA00A365E1 /* DWRichContentItemData.m in Sources */,
+				BF46517A22E2976B00685DDC /* AppDelegate.m in Sources */,
+				45D9A3EF22E69D0A005BC941 /* DWUsedInteractiveView.m in Sources */,
+				BF4CB3A522E4B0B500BD2B24 /* DWHouseBigTableViewCell.m in Sources */,
+				BF8CA05622E550B000E19238 /* DWDisplayModel.m in Sources */,
+				458014C922E7F6A200C6F1E4 /* DWSearchHistoryView.m in Sources */,
+				BF7935D422E2C50800101928 /* DWItemCollectionViewCell.m in Sources */,
+				453BE41922E756A000B0F3C2 /* DWItemPickerView.m in Sources */,
+				BFB826B922E52FC4005300F5 /* DWImageNewsTableViewCell.m in Sources */,
+				BF4651B022E2AC0B00685DDC /* DWNewsViewController.m in Sources */,
+				BF623C8922E4944300EFB78B /* DWHouseContentHeaderView.m in Sources */,
+				BF8CA05322E54A3000E19238 /* DWResponseInfo.m in Sources */,
+				BF7935DA22E2EF0D00101928 /* DWWebKitViewController.m in Sources */,
+				453B9AAC22E752CB00102078 /* DWSearchViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF46518922E2976C00685DDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF46519222E2976C00685DDC /* DwellTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BF46518F22E2976C00685DDC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BF46517422E2976B00685DDC /* Dwell */;
+			targetProxy = BF46518E22E2976C00685DDC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		BF46519422E2976C00685DDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		BF46519522E2976C00685DDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BF46519722E2976C00685DDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 673476FB4330F4AD127583DA /* Pods-Dwell.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				GCC_PREFIX_HEADER = "Dwell/Supporting-Files/PrefixHeader.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Dwell/Supporting-Files/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = toureek.it.Dwell;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		BF46519822E2976C00685DDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07389333D1DA1391FF8FDB3B /* Pods-Dwell.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				GCC_PREFIX_HEADER = "Dwell/Supporting-Files/PrefixHeader.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Dwell/Supporting-Files/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = toureek.it.Dwell;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		BF46519A22E2976C00685DDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = DwellTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = toureek.it.DwellTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dwell.app/Dwell";
+			};
+			name = Debug;
+		};
+		BF46519B22E2976C00685DDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = DwellTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = toureek.it.DwellTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dwell.app/Dwell";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF46517022E2976B00685DDC /* Build configuration list for PBXProject "Dwell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF46519422E2976C00685DDC /* Debug */,
+				BF46519522E2976C00685DDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF46519622E2976C00685DDC /* Build configuration list for PBXNativeTarget "Dwell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF46519722E2976C00685DDC /* Debug */,
+				BF46519822E2976C00685DDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF46519922E2976C00685DDC /* Build configuration list for PBXNativeTarget "DwellTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF46519A22E2976C00685DDC /* Debug */,
+				BF46519B22E2976C00685DDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF46516D22E2976B00685DDC /* Project object */;
+}
